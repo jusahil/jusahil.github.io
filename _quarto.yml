@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sahil Imtiyaz"
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io"
+  repo-url: "https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io"
+  description: "Academic website of Sahil Imtiyaz: mathematical structures for evolving biological and complex systems."
+  navbar:
+    title: "Sahil Imtiyaz"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: talks.qmd
+        text: Talks
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: envelope
+        href: "mailto:sahil.imtiyaz@unicam.it"
+        aria-label: Email
+      - icon: github
+        href: "https://github.com/YOUR-GITHUB-USERNAME"
+        aria-label: GitHub
+      - icon: google
+        href: "https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID"
+        aria-label: Google Scholar
+  page-footer:
+    left: "© Sahil Imtiyaz"
+    right:
+      - text: "Built with Quarto"
+        href: "https://quarto.org"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    page-layout: full
+
+execute:
+  freeze: auto

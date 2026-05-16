@@ -1,0 +1,22 @@
+---
+title: "Contact"
+description: "Contact information."
+---
+
+## Contact
+
+**Email:** [sahil.imtiyaz@unicam.it](mailto:sahil.imtiyaz@unicam.it)
+
+## Profiles
+
+Replace the placeholders below with your actual profile links:
+
+- [Google Scholar](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
+- [ORCID](https://orcid.org/YOUR-ORCID-ID)
+- [GitHub](https://github.com/YOUR-GITHUB-USERNAME)
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+- [ResearchGate](https://www.researchgate.net/profile/YOUR-PROFILE)
+
+## Collaboration
+
+I am open to collaborations on mathematical biology, evolving complex systems, biological organization, molecular communication, network reconfiguration, and local-to-global compatibility problems.

@@ -1,0 +1,69 @@
+---
+title: "Publications"
+description: "Selected publications, preprints, and manuscripts."
+---
+
+## Selected publications and preprints
+
+Edit this page by replacing placeholder links with DOI, arXiv, bioRxiv, journal, or PDF links.
+
+::: {.publication}
+### Constraint Semantics for Multi-Level Organization
+**Sahil Imtiyaz**  
+Preprint / manuscript.
+
+A mathematical framework for multi-level organization based on evolving organizational scaffolds, heterogeneous local state spaces, active interfaces, admissible histories, and local-to-global realizability.
+
+[PDF](#) · [bioRxiv](#) · [BibTeX](#)
+:::
+
+::: {.publication}
+### The Evolving Reconfigurable Network Bundle: A Geometric Framework for Evolving Communication Systems
+**Sahil Imtiyaz**  
+Manuscript / preprint.
+
+A geometric framework for evolving communication systems using space-time network complexes, local configuration spaces, boundary-conditioned feasibility, and interface-loop diagnostics.
+
+[PDF](#) · [Preprint](#) · [BibTeX](#)
+:::
+
+::: {.publication}
+### When is Cross-Scale Molecular Communication Realizable? The Hodgkin Spike as a Cross-Level Signalling Loop
+**Sahil Imtiyaz** and collaborators  
+Manuscript.
+
+A formal study of cross-scale molecular communication, active biological interfaces, and end-to-end realizability, with a Hodgkin-spike witness.
+
+[PDF](#) · [Preprint](#) · [BibTeX](#)
+:::
+
+::: {.publication}
+### The Geometry of Viral Release: A Mathematical Framework for Structural Realizability of Virus-Membrane Remodeling
+**Sahil Imtiyaz** and collaborators  
+Manuscript.
+
+A structural approach to virus-membrane remodeling, emphasizing heterogeneous local state spaces, admissible histories, active membrane interfaces, and endpoint constraints.
+
+[PDF](#) · [Preprint](#) · [BibTeX](#)
+:::
+
+::: {.publication}
+### The Gauge-Theoretic Structure of Non-Locality and Contextuality
+**Sahil Imtiyaz**  
+Manuscript.
+
+A bundle- and gauge-theoretic approach to contextuality and local-global obstruction phenomena in physical systems.
+
+[PDF](#) · [Preprint](#) · [BibTeX](#)
+:::
+
+## How to maintain this page
+
+For each publication, keep the following information:
+
+- title;
+- authors;
+- publication venue or preprint server;
+- year;
+- short 3--5 line description;
+- DOI, PDF, arXiv/bioRxiv, code, and BibTeX links.

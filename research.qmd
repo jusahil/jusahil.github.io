@@ -1,0 +1,45 @@
+---
+title: "Research"
+description: "Research themes and conceptual overview."
+---
+
+## Overview
+
+My research develops mathematical language for systems whose organization cannot be reduced to a fixed state space or a single-level dynamical model. The central question is:
+
+> When do locally admissible structures, interactions, or transitions assemble into a globally realizable system-level process?
+
+This question appears in biological organization, molecular communication, evolving networks, contextual systems, and multi-scale systems where interfaces actively mediate what can or cannot happen.
+
+## Research themes
+
+### Constraint semantics for multi-level organization
+
+This line of work studies biological and complex systems as structured spaces of admissible organization. The aim is to distinguish:
+
+- the organizational scaffold of possible relations;
+- the local state spaces attached to different levels or components;
+- the admissible transitions between coherent configurations;
+- the interface constraints that determine whether a local process can be lifted to a global realization.
+
+### Evolving simplicial and network bundles
+
+I use simplicial and bundle-like structures to model systems in which both the underlying organization and the local configuration spaces may evolve. This is especially useful for communication networks, biological signaling pathways, and systems with changing interaction topology.
+
+### Interfaces, loops, and circular causality
+
+Many biological systems exhibit feedback across levels. I study interface loops as diagnostic objects: they record whether a process that appears cyclic at an operational level actually returns coherently in the lifted multi-level state space.
+
+### Local-to-global obstruction methods
+
+A recurring mathematical theme is the failure of local compatibility to imply global compatibility. This leads naturally to obstruction, cohomological, holonomy, and path-dependence diagnostics. In applications, such diagnostics can identify when a proposed reconfiguration, signalling loop, or multi-scale process is not realizable without changing the underlying structure.
+
+## Application domains
+
+- multi-level biological organization;
+- Hodgkin-type signalling loops and circular causality;
+- molecular and nano-biological communication;
+- viral release and membrane remodeling;
+- evolving communication networks;
+- dynamic ecological and eco-evolutionary networks;
+- contextuality and local-global compatibility in physical systems.

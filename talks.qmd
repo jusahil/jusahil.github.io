@@ -1,0 +1,30 @@
+---
+title: "Talks"
+description: "Talks, seminars, and presentations."
+---
+
+## Selected talks
+
+Add your talks here in reverse chronological order.
+
+::: {.publication}
+### Talk title
+**Venue**, City, Country — Year  
+Short description of the talk.
+
+[Slides](#) · [Video](#)
+:::
+
+::: {.publication}
+### Seminar title
+**Institution / Seminar Series** — Year  
+Short description of the seminar.
+
+[Slides](#)
+:::
+
+## Invited lectures and seminars
+
+- Add seminar 1.
+- Add seminar 2.
+- Add conference talk 1.

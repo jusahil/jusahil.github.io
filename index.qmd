@@ -1,0 +1,67 @@
+---
+title: "Sahil Imtiyaz"
+subtitle: "Mathematical structures for evolving biological and complex systems"
+about:
+  template: jolla
+  image: assets/profile-placeholder.svg
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sahil.imtiyaz@unicam.it
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID
+    - icon: file-earmark-person
+      text: CV
+      href: cv.qmd
+---
+
+::: {.hero-box}
+I develop mathematical frameworks for understanding how structure, dynamics, and constraints co-evolve in biological, physical, and communication systems. My work is motivated by local-to-global consistency problems, multi-level biological organization, evolving network architectures, and the role of interfaces in shaping feasible system behavior.
+:::
+
+## Research identity
+
+My research sits at the intersection of **mathematical biology**, **complex systems**, **applied topology**, **network science**, and **theoretical/computational modeling**. I am especially interested in systems where the underlying state space, interaction structure, and admissible dynamics are not fixed once and for all, but evolve together.
+
+Key themes include:
+
+- constraint semantics for multi-level biological organization;
+- evolving simplicial and network-bundle frameworks;
+- local-to-global compatibility, extension, and feasibility problems;
+- interface-mediated organization and circular causality diagnostics;
+- applications to molecular communication, Hodgkin-type signalling loops, viral release, and evolving communication networks.
+
+## Current focus
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+### Multi-level organization
+Mathematical semantics for biological systems with heterogeneous levels, active interfaces, and constrained realizability.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+### Evolving networks
+Geometric and topological tools for network reconfiguration, feasibility, and interface-loop diagnostics.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+### Local-global structure
+Obstruction, holonomy, and compatibility methods for detecting when local admissibility fails to produce global realizability.
+:::
+:::
+:::
+
+## Selected links
+
+- [Research overview](research.qmd)
+- [Publications and manuscripts](publications.qmd)
+- [Projects](projects.qmd)
+- [CV](cv.qmd)
+- [Contact](contact.qmd)

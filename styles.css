@@ -1,0 +1,45 @@
+/* Academic website custom styling */
+
+.hero-box {
+  font-size: 1.15rem;
+  line-height: 1.65;
+  padding: 1.5rem;
+  border-radius: 18px;
+  background: rgba(60, 120, 180, 0.08);
+  border: 1px solid rgba(60, 120, 180, 0.18);
+  margin-bottom: 1.5rem;
+}
+
+.card {
+  padding: 1.2rem;
+  border-radius: 18px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+  height: 100%;
+  background: var(--bs-body-bg);
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.publication {
+  padding: 1rem 1.2rem;
+  border-left: 4px solid #3c78b4;
+  margin-bottom: 1.25rem;
+  background: rgba(60, 120, 180, 0.06);
+  border-radius: 10px;
+}
+
+.publication h3 {
+  margin-top: 0;
+}
+
+.navbar-title {
+  font-weight: 700;
+}
+
+.btn-primary {
+  border-radius: 12px;
+  padding: 0.6rem 1rem;
+}
