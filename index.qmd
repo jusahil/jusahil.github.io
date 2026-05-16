@@ -1,76 +1,181 @@
 ---
 title: "Sahil Imtiyaz"
-subtitle: "Mathematical structures for evolving biological and complex systems"
+subtitle: "Postdoctoral Researcher, Basque Center for Applied Mathematics (BCAM), Bilbao, Spain"
 about:
-  template: jolla
+  template: solana
   image: image.png
   image-shape: rounded
   links:
     - icon: envelope
       text: Email
-      href: mailto:sahil.imtiyaz@unicam.it
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID
+      href: mailto:simtiyaz@bcamath.org
     - icon: file-earmark-person
       text: CV
       href: cv.qmd
+    - icon: person-lines-fill
+      text: Contact
+      href: contact.qmd
+page-layout: full
 ---
 
-::: {.hero-box}
-I develop mathematical frameworks for understanding how structure, dynamics, and constraints co-evolve in biological, physical, and communication systems.
+## Mathematical Structures, Dynamics, Information, and Computation in Complex Systems
 
-My work is motivated by local-to-global consistency problems, multi-level biological organization, evolving network architectures, and the role of interfaces in shaping feasible system behavior.
-:::
+**Quantum foundations · Quantum information and computation · Topological-geometric methods · Evolving networks and communication systems · Mathematical and theoretical biology**
 
-## Research identity
+I study complex systems in which structure, dynamics, information, and constraints interact across scales. My work develops mathematical and computational frameworks for understanding how local interactions give rise to coherent system-level behaviour, how contextual and geometric structure shapes what a system can do, and how evolving networks, quantum models, and biological systems can be analysed through common structural principles.
 
-My research sits at the intersection of **mathematical biology**, **complex systems**, **applied topology**, **network science**, and **theoretical/computational modeling**.
+---
 
-I am especially interested in systems where the underlying state space, interaction structure, and admissible dynamics are not fixed once and for all, but evolve together.
-
-Key themes include:
-
-- constraint semantics for multi-level biological organization;
-- evolving simplicial and network-bundle frameworks;
-- local-to-global compatibility, extension, and feasibility problems;
-- interface-mediated organization and circular causality diagnostics;
-- applications to molecular communication, Hodgkin-type signalling loops, viral release, and evolving communication networks.
-
-## Current focus
+## Research at a Glance
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card}
-### Multi-level organization
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Quantum Foundations
 
-Mathematical semantics for biological systems with heterogeneous levels, active interfaces, and constrained realizability.
+Non-locality, contextuality, Bell–Kochen–Specker models, and philosophical questions in quantum theory, studied through topological, geometric, algebraic, and sheaf/bundle methods.
 :::
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {.card}
-### Evolving networks
-
-Geometric and topological tools for network reconfiguration, feasibility, and interface-loop diagnostics.
 :::
 :::
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card}
-### Local-global structure
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Quantum Information and Computation
 
-Obstruction, holonomy, and compatibility methods for detecting when local admissibility fails to produce global realizability.
+Mathematical structures behind quantum advantage, contextuality as a computational resource, and structural approaches to quantum information, computation, and cognition.
 :::
 :::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Topological, Geometric, and Algebraic Methods
+
+Algebraic topology, sheaf theory, fibre bundles, obstruction theory, discrete Morse theory, category-theoretic ideas, and gauge/holonomy methods for local-to-global structure.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Evolving Networks and Communication Systems
+
+Evolving, heterogeneous, and reconfigurable networked systems, with emphasis on dynamic feasibility, partial information, communication infrastructures, and structural diagnostics.
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+### Mathematical and Theoretical Biology
+
+Mathematical and theoretical models of multiscale biological processes, biological communication, circular causality, active interfaces, and adaptive ecological systems.
+:::
+:::
+:::
 
 :::
 
-## Selected links
+---
 
-- [Research overview](research.qmd)
-- [Publications and manuscripts](publications.qmd)
-- [Projects](projects.qmd)
-- [CV](cv.qmd)
-- [Contact](contact.qmd)
+## Featured Work
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Bundle/Gauge-Theoretic Structure of Quantum Contextuality
+
+I study quantum contextuality and non-locality through bundle-theoretic, gauge-theoretic, topological, and algebraic structures. This work investigates Bell–Kochen–Specker models, local-to-global obstruction, underlying symmetry principles, loop/interface holonomy, and the geometric foundations of quantum contextuality in quantum theory.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Topology-Driven Computation and Quantum Advantage
+
+I am interested in the mathematical structures behind quantum advantage and the role of contextuality as a computational resource. More broadly, I study topology-driven models of computation in which structure, constraints, and computation interact: local computational processes are shaped by global organisation, while computation can in turn modify the topology, invariants, or observable structure of the system. This direction is motivated by the search for structural foundations of quantum algorithms and new forms of computation over changing spaces.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### The Evolving Reconfigurable Network Bundle
+
+**A Geometric Framework for Evolving Communication Systems**
+
+I develop geometric frameworks for evolving, heterogeneous, and reconfigurable networked systems. In this work, dynamic feasibility is studied as a structural problem: when can local configurations, paths, policies, or updates be assembled into globally coherent behaviour under changing network constraints? The framework is aimed at communication infrastructures where topology, configuration spaces, partial information, and admissible transformations evolve together.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### Constraint Semantics and Cross-Scale Biological Communication
+
+I develop structural semantics for multi-level biological systems, where molecular, membrane, cellular, tissue, and ecological processes interact through active interfaces. This work includes cross-scale biological communication, Hodgkin-type signalling loops, cardiac excitation–conduction, circular causality, and the distinction between pathway closure and recurrence in one fixed state space.
+:::
+:::
+:::
+
+:::
+
+---
+
+## Explore
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3}
+::: {.card .h-100}
+::: {.card-body}
+### [Research](research.qmd)
+
+Broader research programme, methods, and current directions.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3}
+::: {.card .h-100}
+::: {.card-body}
+### [Publications](publications.qmd)
+
+Published papers, preprints, submitted manuscripts, and thesis work.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3}
+::: {.card .h-100}
+::: {.card-body}
+### [CV](cv.qmd)
+
+Academic CV and professional profile.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3}
+::: {.card .h-100}
+::: {.card-body}
+### [Contact](contact.qmd)
+
+Email, affiliation, and academic links.
+:::
+:::
+:::
+
+:::
