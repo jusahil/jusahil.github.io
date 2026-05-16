@@ -1,7 +1,6 @@
 ---
 title: "Sahil Imtiyaz"
-subtitle: "Postdoctoral Researcher,
-Basque Center for Applied Mathematics (BCAM), Bilbao, Spain"
+subtitle: "Postdoctoral Researcher, Basque Center for Applied Mathematics (BCAM), Bilbao, Spain"
 about:
   template: solana
   image: image.jpg
@@ -19,7 +18,7 @@ about:
 page-layout: full
 ---
 
-## Mathematical Structures, Dynamics, and Computation in Complex Systems
+## Mathematical Structures, Dynamics, Information, and Computation in Complex Systems
 
 **Quantum foundations · Quantum information and computation · Topological-geometric methods · Evolving networks and communication systems · Mathematical and theoretical biology**
 
@@ -29,12 +28,14 @@ I study complex systems in which structure, dynamics, information, and constrain
 
 ## Research at a Glance
 
+Click on a research area to move directly to the corresponding featured research direction.
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100}
 ::: {.card-body}
-### Quantum Foundations
+### [Quantum Foundations](#featured-quantum-contextuality)
 
 Non-locality, contextuality, Bell–Kochen–Specker models, and philosophical questions in quantum theory, studied through topological, geometric, algebraic, and sheaf/bundle methods.
 :::
@@ -44,7 +45,7 @@ Non-locality, contextuality, Bell–Kochen–Specker models, and philosophical q
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100}
 ::: {.card-body}
-### Quantum Information and Computation
+### [Quantum Information and Computation](#featured-topology-driven-computation)
 
 Mathematical structures behind quantum advantage, contextuality as a computational resource, and structural approaches to quantum information, computation, and cognition.
 :::
@@ -54,7 +55,7 @@ Mathematical structures behind quantum advantage, contextuality as a computation
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100}
 ::: {.card-body}
-### Topological, Geometric, and Algebraic Methods
+### [Topological, Geometric, and Algebraic Methods](#featured-topological-methods)
 
 Algebraic topology, sheaf theory, fibre bundles, obstruction theory, discrete Morse theory, category-theoretic ideas, and gauge/holonomy methods for local-to-global structure.
 :::
@@ -64,7 +65,7 @@ Algebraic topology, sheaf theory, fibre bundles, obstruction theory, discrete Mo
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100}
 ::: {.card-body}
-### Evolving Networks and Communication Systems
+### [Evolving Networks and Communication Systems](#featured-ernb)
 
 Evolving, heterogeneous, and reconfigurable networked systems, with emphasis on dynamic feasibility, partial information, communication infrastructures, and structural diagnostics.
 :::
@@ -74,7 +75,7 @@ Evolving, heterogeneous, and reconfigurable networked systems, with emphasis on 
 ::: {.g-col-12}
 ::: {.card .h-100}
 ::: {.card-body}
-### Mathematical and Theoretical Biology
+### [Mathematical and Theoretical Biology](#featured-biological-communication)
 
 Mathematical and theoretical models of multiscale biological processes, biological communication, circular causality, active interfaces, and adaptive ecological systems.
 :::
@@ -85,16 +86,18 @@ Mathematical and theoretical models of multiscale biological processes, biologic
 
 ---
 
-## Featured Work
+## Featured Research
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100}
 ::: {.card-body}
-### Bundle/Gauge-Theoretic Structure of Quantum Contextuality
+### Bundle/Gauge-Theoretic Structure of Quantum Contextuality {#featured-quantum-contextuality}
 
 I study quantum contextuality and non-locality through bundle-theoretic, gauge-theoretic, topological, and algebraic structures. This work investigates Bell–Kochen–Specker models, local-to-global obstruction, underlying symmetry principles, loop/interface holonomy, and the geometric foundations of quantum contextuality in quantum theory.
+
+**Related areas:** Quantum foundations · Contextuality · Non-locality · Philosophy of quantum physics
 :::
 :::
 :::
@@ -102,9 +105,11 @@ I study quantum contextuality and non-locality through bundle-theoretic, gauge-t
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100}
 ::: {.card-body}
-### Topology-Driven Computation and Quantum Advantage
+### Topology-Driven Computation and Quantum Advantage {#featured-topology-driven-computation}
 
 I am interested in the mathematical structures behind quantum advantage and the role of contextuality as a computational resource. More broadly, I study topology-driven models of computation in which structure, constraints, and computation interact: local computational processes are shaped by global organisation, while computation can in turn modify the topology, invariants, or observable structure of the system. This direction is motivated by the search for structural foundations of quantum algorithms and new forms of computation over changing spaces.
+
+**Related areas:** Quantum information · Quantum computation · Quantum advantage · Computational semantics
 :::
 :::
 :::
@@ -112,21 +117,37 @@ I am interested in the mathematical structures behind quantum advantage and the 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100}
 ::: {.card-body}
-### The Evolving Reconfigurable Network Bundle
+### Topological, Geometric, and Algebraic Methods {#featured-topological-methods}
+
+Across my work, I use mathematical structures such as algebraic topology, sheaf theory, fibre bundles, obstruction theory, discrete Morse theory, category-theoretic ideas, and gauge/holonomy methods to study local-to-global phenomena. These tools provide a common language for quantum contextuality, evolving networks, biological organisation, and computation over changing structures.
+
+**Related areas:** Algebraic topology · Sheaf theory · Fibre bundles · Obstruction theory · Gauge/holonomy methods
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### The Evolving Reconfigurable Network Bundle {#featured-ernb}
 
 **A Geometric Framework for Evolving Communication Systems**
 
 I develop geometric frameworks for evolving, heterogeneous, and reconfigurable networked systems. In this work, dynamic feasibility is studied as a structural problem: when can local configurations, paths, policies, or updates be assembled into globally coherent behaviour under changing network constraints? The framework is aimed at communication infrastructures where topology, configuration spaces, partial information, and admissible transformations evolve together.
+
+**Related areas:** Evolving networks · Communication systems · Dynamic feasibility · Partial information · Structural diagnostics
 :::
 :::
 :::
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-12}
 ::: {.card .h-100}
 ::: {.card-body}
-### Constraint Semantics and Cross-Scale Biological Communication
+### Constraint Semantics and Cross-Scale Biological Communication {#featured-biological-communication}
 
 I develop structural semantics for multi-level biological systems, where molecular, membrane, cellular, tissue, and ecological processes interact through active interfaces. This work includes cross-scale biological communication, Hodgkin-type signalling loops, cardiac excitation–conduction, circular causality, and the distinction between pathway closure and recurrence in one fixed state space.
+
+**Related areas:** Mathematical biology · Theoretical biology · Biological communication · Circular causality · Adaptive ecological systems
 :::
 :::
 :::
