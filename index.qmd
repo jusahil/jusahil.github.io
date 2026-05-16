@@ -4,7 +4,7 @@ subtitle: "Postdoctoral Researcher,
 Basque Center for Applied Mathematics (BCAM), Bilbao, Spain"
 about:
   template: solana
-  image: image.png
+  image: image.jpg
   image-shape: rounded
   links:
     - icon: envelope
