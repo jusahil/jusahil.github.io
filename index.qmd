@@ -1,6 +1,6 @@
 ---
 title: "Sahil Imtiyaz"
-subtitle: "Postdoctoral Researcher,\\
+subtitle: "Postdoctoral Researcher,
 Basque Center for Applied Mathematics (BCAM), Bilbao, Spain"
 about:
   template: solana
@@ -19,7 +19,7 @@ about:
 page-layout: full
 ---
 
-## Mathematical Structures, Dynamics, Information, and Computation in Complex Systems
+## Mathematical Structures, Dynamics, and Computation in Complex Systems
 
 **Quantum foundations · Quantum information and computation · Topological-geometric methods · Evolving networks and communication systems · Mathematical and theoretical biology**
 
