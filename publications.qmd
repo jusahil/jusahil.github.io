@@ -106,7 +106,7 @@ Develops contextual semantics machinery within the broader programme of Topologi
 ### Quantum Adiabatic Evolution for Global Optimization in Big Data
 
 **Sahil Imtiyaz**.  
-MS thesis / archived early research work, International Islamic University Islamabad, 2018.  
+Master's thesis / archived early research work, International Islamic University Islamabad, 2018.  
 Supervisor: [Dr. Jamal Abdul Nasir / Jamal Nasir](https://research.universityofgalway.ie/en/persons/jamal-nasir/).  
 Additional profile: [Google Scholar](https://scholar.google.com/citations?hl=en&user=V86JSRwAAAAJ).  
 arXiv: [`1805.11479`](https://arxiv.org/abs/1805.11479)
@@ -122,7 +122,7 @@ Explores quantum adiabatic evolution and optimization ideas for large and comple
 
 ---
 
-## Preprints and Public Manuscripts
+## Preprints 
 
 ::: {.grid}
 
