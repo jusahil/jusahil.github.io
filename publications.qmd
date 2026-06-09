@@ -5,7 +5,7 @@ page-layout: full
 
 
 
-This page lists peer-reviewed publications, theses, archived work, preprints, and public manuscripts.
+Selected peer-reviewed publications,theses,and preprints
 
 ---
 
@@ -106,7 +106,7 @@ Develops contextual semantics machinery within the broader programme of Topologi
 ### Quantum Adiabatic Evolution for Global Optimization in Big Data
 
 **Sahil Imtiyaz**.  
-Master's thesis / archived early research work, International Islamic University Islamabad, 2018.  
+Master's thesis, International Islamic University, 2018.  
 Supervisor: [Dr. Jamal Abdul Nasir / Jamal Nasir](https://research.universityofgalway.ie/en/persons/jamal-nasir/).  
 Additional profile: [Google Scholar](https://scholar.google.com/citations?hl=en&user=V86JSRwAAAAJ).  
 arXiv: [`1805.11479`](https://arxiv.org/abs/1805.11479)
