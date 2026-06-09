@@ -1,69 +1,226 @@
 ---
 title: "Publications"
-description: "Selected publications, preprints, and manuscripts."
+page-layout: full
 ---
 
-## Selected publications and preprints
+# Publications
 
-Edit this page by replacing placeholder links with DOI, arXiv, bioRxiv, journal, or PDF links.
+This page lists peer-reviewed publications, theses, archived work, preprints, and public manuscripts.
 
-::: {.publication}
-### Constraint Semantics for Multi-Level Organization
-**Sahil Imtiyaz**  
-Preprint / manuscript.
+---
 
-A mathematical framework for multi-level organization based on evolving organizational scaffolds, heterogeneous local state spaces, active interfaces, admissible histories, and local-to-global realizability.
+## Peer-reviewed Publications
 
-[PDF](#) · [bioRxiv](#) · [BibTeX](#)
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### The Bundle-Theoretic Structure and Computational Modeling of Quantum Contextuality
+
+**Sahil Imtiyaz**, Emanuela Merelli, and Serafim Rodrigues.  
+In *Quantum AI and NLP: First International Conference, QNLPAI 2025, Bloomington, IN, USA, August 6–9, 2025, Proceedings*, Communications in Computer and Information Science, vol. 2659, Springer, Cham, 2026, pp. 274–301.  
+DOI: [`10.1007/978-3-032-13883-5_15`](https://doi.org/10.1007/978-3-032-13883-5_15)
+
+**Contribution.**  
+Develops a bundle-theoretic and computational framework for quantum contextuality and non-locality, treating contextual behaviour as a local-to-global obstruction encoded by geometric, topological, and symmetry-based structure. The work also develops a topology-driven model of computation for contextual semantics machines, linking quantum foundations, contextuality, quantum cognition, and computational modelling through a common structural language.
+
+:::
+:::
 :::
 
-::: {.publication}
-### The Evolving Reconfigurable Network Bundle: A Geometric Framework for Evolving Communication Systems
-**Sahil Imtiyaz**  
-Manuscript / preprint.
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
 
-A geometric framework for evolving communication systems using space-time network complexes, local configuration spaces, boundary-conditioned feasibility, and interface-loop diagnostics.
+### Understanding Entanglement Through the Lens of Quantifiable Algebraic Structures: Application to Bird Navigation
 
-[PDF](#) · [Preprint](#) · [BibTeX](#)
+**Sahil Imtiyaz** and Serafim Rodrigues.  
+*IEEE Transactions on Molecular, Biological, and Multi-Scale Communications*, vol. 12, 2026, pp. 279–297.  
+DOI: [`10.1109/TMBMC.2025.3650156`](https://doi.org/10.1109/TMBMC.2025.3650156)
+
+**Contribution.**  
+Introduces an algebraic and structural quantum-compass perspective for multisensory integration in avian navigation. The paper treats cue integration as a global-consistency problem and proposes loop-based observables for detecting contextual conflict, remapping, and non-local integration effects in evolving biological scaffolds.
+
+:::
+:::
 :::
 
-::: {.publication}
-### When is Cross-Scale Molecular Communication Realizable? The Hodgkin Spike as a Cross-Level Signalling Loop
-**Sahil Imtiyaz** and collaborators  
-Manuscript.
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
 
-A formal study of cross-scale molecular communication, active biological interfaces, and end-to-end realizability, with a Hodgkin-spike witness.
+### Four-Cycles Delay-Efficient RPL-Based Routing Approach for IoT Applications
 
-[PDF](#) · [Preprint](#) · [BibTeX](#)
+Manar Al Bataineh, Tasneem Al Mallah, Wail Mardini, **Sahil Imtiyaz**, Yaser Khamayseh, and Muneer Bani Yassein.  
+In *2021 12th International Conference on Information and Communication Systems (ICICS)*, Valencia, Spain / virtual, 24–26 May 2021.  
+DOI: [`10.1109/ICICS52457.2021.9464550`](https://doi.org/10.1109/ICICS52457.2021.9464550)  
+Conference programme: [ICICS 2021, Paper ID 119](https://www.just.edu.jo/icics/icics2021/program.html)
+
+**Contribution.**  
+Proposes a four-cycle-based enhancement of RPL routing for IoT and low-power network settings, with emphasis on delay-efficient communication and routing behaviour in constrained networked infrastructures.
+
+:::
+:::
 :::
 
-::: {.publication}
-### The Geometry of Viral Release: A Mathematical Framework for Structural Realizability of Virus-Membrane Remodeling
-**Sahil Imtiyaz** and collaborators  
-Manuscript.
-
-A structural approach to virus-membrane remodeling, emphasizing heterogeneous local state spaces, admissible histories, active membrane interfaces, and endpoint constraints.
-
-[PDF](#) · [Preprint](#) · [BibTeX](#)
 :::
 
-::: {.publication}
+---
+
+## Theses and Archived Work
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### Contextual Semantics Machinery
+
+**Sahil Imtiyaz**.  
+Doctoral thesis, PhD in Computer Science and Mathematics, University of Camerino, 2023.  
+Supervisor: [Emanuela Merelli](https://www.emanuelamerelli.eu/).  
+Research environment: [BioShape & Data Science Lab](https://www.emanuelamerelli.eu/bigdata/), University of Camerino.  
+Scientific programme/influence: [Mario Rasetti](https://www.polito.it/en/staff?p=mario.rasetti), Topological Field Theory of Data, and topology-driven methods for complex systems.  
+Institutional repository handle: `11581/484452`.  
+Link: [UNICAM repository](https://pubblicazioni.unicam.it/handle/11581/484452)
+
+**Research context and funding.**  
+Developed within the BioShape & Data Science Lab research environment, connected to the Topological Field Theory of Data programme and the EU FP7/FET TOPDRIM project, *Topology Driven Methods for Complex Systems*, grant agreement `318121`.
+
+Links: [TOPDRIM website](https://www.topdrim.eu/) · [CORDIS TOPDRIM record](https://cordis.europa.eu/project/id/318121)
+
+**Contribution.**  
+Develops contextual semantics machinery within the broader programme of Topological Field Theory of Data. The thesis studies how local contextual structures, topological data, and quantum contextuality can be organized into a mathematical framework for complex systems, computation, and topology-driven modelling.
+
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### Quantum Adiabatic Evolution for Global Optimization in Big Data
+
+**Sahil Imtiyaz**.  
+MS thesis / archived early research work, International Islamic University Islamabad, 2018.  
+Supervisor: [Dr. Jamal Abdul Nasir / Jamal Nasir](https://research.universityofgalway.ie/en/persons/jamal-nasir/).  
+Additional profile: [Google Scholar](https://scholar.google.com/citations?hl=en&user=V86JSRwAAAAJ).  
+arXiv: [`1805.11479`](https://arxiv.org/abs/1805.11479)
+
+**Contribution.**  
+Explores quantum adiabatic evolution and optimization ideas for large and complex data spaces, forming an early computational foundation for later work on structure-sensitive modelling, quantum computation, and complex data.
+
+:::
+:::
+:::
+
+:::
+
+---
+
+## Preprints and Public Manuscripts
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### Constraint Semantics for Multi-Level Organisation
+
+**Sahil Imtiyaz**, Serafim Rodrigues, and Mathieu Desroches.  
+bioRxiv preprint / manuscript, 2026.  
+DOI: [`10.64898/2026.02.27.708558`](https://www.biorxiv.org/content/10.64898/2026.02.27.708558v1)
+
+**Contribution.**  
+Develops a structural semantics for multi-level biological organisation, modelling biological systems through admissible configurations, active interfaces, histories, and global realisability. The work provides a mathematical language for distinguishing local admissibility, coherent multi-level organisation, and structural reorganisation.
+
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
 ### The Gauge-Theoretic Structure of Non-Locality and Contextuality
-**Sahil Imtiyaz**  
-Manuscript.
 
-A bundle- and gauge-theoretic approach to contextuality and local-global obstruction phenomena in physical systems.
+**Sahil Imtiyaz** and Serafim Rodrigues.  
+Public repository manuscript / preprint, BCAM BIRD, 2025.  
+Handle: `20.500.11824/2095`.  
+Link: [BCAM BIRD record](https://bird.bcamath.org/handle/20.500.11824/2095)
 
-[PDF](#) · [Preprint](#) · [BibTeX](#)
+**Contribution.**  
+Studies quantum non-locality and contextuality through gauge-theoretic, bundle-theoretic, topological, and algebraic structures. The work investigates Bell–Kochen–Specker models, local-to-global obstruction, symmetry principles, loop/interface holonomy, and the geometric foundations of quantum contextuality.
+
+:::
+:::
 :::
 
-## How to maintain this page
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
 
-For each publication, keep the following information:
+### Contextual Semantics Machinery
 
-- title;
-- authors;
-- publication venue or preprint server;
-- year;
-- short 3--5 line description;
-- DOI, PDF, arXiv/bioRxiv, code, and BibTeX links.
+**Sahil Imtiyaz** and Emanuela Merelli.  
+Public repository manuscript / working paper, BCAM BIRD, 2024.  
+Handle: `20.500.11824/1889`.  
+Link: [BCAM BIRD record](https://bird.bcamath.org/handle/20.500.11824/1889)
+
+**Contribution.**  
+Presents a contextual-semantics framework connecting Topological Field Theory of Data, quantum contextuality, and computation. The work serves as a bridge between local-global obstruction, topology-driven modelling, and computational semantics.
+
+:::
+:::
+:::
+
+:::
+
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Research](research.qmd)
+
+Research areas, methods, and current directions.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Projects](projects.qmd)
+
+Ongoing projects, research context, and funding environment.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [CV](cv.qmd)
+
+Academic CV and professional profile.
+
+:::
+:::
+:::
+
+:::
