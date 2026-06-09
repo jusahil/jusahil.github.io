@@ -1,43 +1,169 @@
 ---
-title: "Projects"
-description: "Research projects and directions."
+title: "Projects and Funding Context"
+page-layout: full
 ---
 
-## Current projects
+My research has developed through two connected scientific environments: the Topological Field Theory of Data programme at the University of Camerino and the Mathematical, Computational and Experimental Neuroscience environment at the Basque Center for Applied Mathematics.
+
+---
+
+## BioShape & Data Science Lab and Topological Field Theory of Data
+
+::: {.card}
+::: {.card-body}
+
+My doctoral research was developed in the [BioShape & Data Science Lab](https://www.emanuelamerelli.eu/bigdata/) at the University of Camerino, in the scientific environment shaped by [Emanuela Merelli](https://www.emanuelamerelli.eu/), [Mario Rasetti](https://www.polito.it/en/staff?p=mario.rasetti), and the Topological Field Theory of Data programme.
+
+This environment shaped my interest in mathematical and computational modelling of complex systems, quantum foundations, quantum information and computation, topology-driven methods, categorical and geometric structures, and their applications to data, computation, and biological systems.
+
+A central reference for this scientific line is [*Topological Field Theory of Data: Mining Data Beyond Complex Networks*](https://doi.org/10.1017/9781316403877.002), by Mario Rasetti and Emanuela Merelli.
+
+### Related work
+
+- *Contextual Semantics Machinery* — PhD thesis.
+- *Contextual Semantics Machinery* — public repository manuscript with Emanuela Merelli.
+- *The Bundle-Theoretic Structure and Computational Modeling of Quantum Contextuality*.
+- *The Gauge-Theoretic Structure of Non-Locality and Contextuality*.
+
+:::
+:::
+
+---
+
+## TOPDRIM — Topology Driven Methods for Complex Systems
+
+::: {.card}
+::: {.card-body}
+
+[TOPDRIM](https://www.topdrim.eu/), *Topology Driven Methods for Complex Systems*, was an EU FP7/FET-Proactive project coordinated by the University of Camerino under grant agreement `318121`. The project developed topology-driven mathematical and computational methods for multi-level complex systems, connecting topology, geometry, statistical physics, information theory, computer science, and biology.
+
+My doctoral work and later contextual-semantics research are connected to this scientific lineage through the Topological Field Theory of Data line developed at Camerino.
+
+### Useful links
+
+- [TOPDRIM project website](https://www.topdrim.eu/)
+- [TOPDRIM publications](https://www.topdrim.eu/publications/)
+- [CORDIS TOPDRIM record](https://cordis.europa.eu/project/id/318121)
+
+### Related work
+
+- *Contextual Semantics Machinery* — PhD thesis.
+- *Contextual Semantics Machinery* — public repository manuscript.
+- *The Bundle-Theoretic Structure and Computational Modeling of Quantum Contextuality*.
+
+:::
+:::
+
+---
+
+## BCAM Mathematical, Computational and Experimental Neuroscience Environment
+
+::: {.card}
+::: {.card-body}
+
+My current postdoctoral work is based at the [Basque Center for Applied Mathematics](https://www.bcamath.org/en), within the Mathematical, Computational and Experimental Neuroscience research environment led by [Serafim Rodrigues](https://www.bcamath.org/en/people/bcam-members/srodrigues). This environment connects mathematical modelling, computational neuroscience, complex systems, topology-driven methods, and applications to biological and networked systems.
+
+### Funding context
+
+Across the papers and manuscripts where explicitly acknowledged, my BCAM-based work has received support from:
+
+- grant `PID2023-146683OB-I00`, funded by MICIU/AEI and ERDF, EU;
+- Ikerbasque Foundation;
+- Basque Government BERC 2022–2025 programme;
+- BCAM Severo Ochoa accreditation `CEX2021-001142-S`;
+- BCAM-IKUR, funded by the Basque Government, IKUR Strategy, and the European Union NextGenerationEU/PRTR;
+- [ONBODY `KK-2023/00070`](https://www.bcamath.org/en/research/projects/onbody), funded by the Basque Government through the ELKARTEK programme;
+- [MATHEMATICIANS `PID2023-146683OB-I00`](https://www.bcamath.org/en/research/projects/mathematicians), an AEI-funded BCAM project led by Serafim Rodrigues, where relevant.
+
+### Related work
+
+- *Understanding Entanglement Through the Lens of Quantifiable Algebraic Structures: Application to Bird Navigation*.
+- *Constraint Semantics for Multi-Level Organisation*.
+- *The Gauge-Theoretic Structure of Non-Locality and Contextuality*.
+
+:::
+:::
+
+---
+
+## Selected Ongoing Projects
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-6}
-::: {.card}
-### Individualised niches and adaptive rewiring
-A theoretical ecology direction studying when species-level dynamic networks are valid reductions of individual-level niche dynamics, and when hidden individual variation makes graph-level rewiring biologically insufficient.
-:::
-:::
 
 ::: {.g-col-12 .g-col-md-6}
-::: {.card}
-### Cross-scale molecular communication
-A mathematical approach to molecular and nano-biological communication where end-to-end signalling feasibility depends on active interfaces and multi-level realizability.
-:::
-:::
+::: {.card .h-100}
+::: {.card-body}
 
-::: {.g-col-12 .g-col-md-6}
-::: {.card}
-### Evolving communication networks
-Geometric diagnostics for network reconfiguration, boundary-conditioned feasibility, interface loops, and obstruction-based no-go certificates.
+### The Evolving Reconfigurable Network Bundle: A Geometric Framework for Evolving Communication Systems
+
+Public manuscript currently not available.
+
+This project develops a geometric framework for evolving communication systems in which network topology, configuration spaces, partial information, and admissible transformations evolve together. The central problem is dynamic feasibility: when can local configurations, paths, policies, or updates be assembled into globally coherent behaviour under changing network constraints?
+
+**Research areas:** evolving networks; communication systems; reconfigurable and heterogeneous infrastructures; partial information; dynamic feasibility; structural diagnostics.
+
+:::
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-::: {.card}
-### Biological organization and circular causality
-Mathematical tools for studying circular causality, operational closure, and non-homogeneous lifted recurrence in multi-level biological systems.
+::: {.card .h-100}
+::: {.card-body}
+
+### Optical Network Feasibility, Partial Information, and Structural Diagnostics
+
+Ongoing collaborative project with Serafim Rodrigues and Mathieu Desroches.
+
+This project studies optical-network feasibility under partial information and changing constraints. The aim is to connect local optical feasibility, network-level routing, incomplete access to system state, and structural diagnostics within a coherent mathematical framework for communication networks.
+
+**Research areas:** optical networks; network feasibility; partial observability; structural diagnostics; communication-system modelling; evolving network theory.
+
 :::
 :::
 :::
 
-## Future directions
+:::
 
-- concrete simulations of individual-generated ecological networks;
-- algorithmic diagnostics for evolving network feasibility;
-- biological case studies of active interfaces and structural reconfiguration;
-- simplified examples for teaching local-to-global obstruction ideas to interdisciplinary audiences.
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Research](research.qmd)
+
+Research areas, methods, and current directions.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Publications](publications.qmd)
+
+Peer-reviewed publications, theses, preprints, and public manuscripts.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Contact](contact.qmd)
+
+Affiliation, email, and academic links.
+
+:::
+:::
+:::
+
+:::
