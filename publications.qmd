@@ -3,7 +3,7 @@ title: "Publications"
 page-layout: full
 ---
 
-# Publications
+
 
 This page lists peer-reviewed publications, theses, archived work, preprints, and public manuscripts.
 
