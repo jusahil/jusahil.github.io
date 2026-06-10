@@ -1,74 +1,37 @@
 ---
-title: "Projects and Funding"
+title: "Research"
 page-layout: full
 ---
 
-My research has developed across two connected academic settings: the Topological Field Theory of Data programme at the University of Camerino and the Mathematical, Computational and Experimental Neuroscience group at the Basque Center for Applied Mathematics.
+My research develops mathematical structures, dynamical viewpoints, information-theoretic ideas, and computational frameworks for complex systems. I am interested in systems in which local interactions, contextual constraints, evolving networks, and multi-level organisation jointly shape global behaviour.
+
+A common thread across my work is the question of how local descriptions become coherent at the system level. This question appears in quantum foundations, quantum information and computation, topology-driven models of computation, evolving communication networks, and mathematical/theoretical biology. In each case, the central issue is not only how individual components behave, but how structure, constraints, information, and admissible transformations interact across an organised system.
+
+My work sits at the interface of quantum foundations, quantum information and computation, applied topology, network science, and mathematical/theoretical biology.
 
 ---
 
-## BioShape & Data Science Lab and Topological Field Theory of Data
+## Unifying Questions
 
-::: {.card}
-::: {.card-body}
+Across these areas, I am guided by a set of recurring questions:
 
-My doctoral research was developed in the [BioShape & Data Science Lab](https://www.emanuelamerelli.eu/bigdata/) at the University of Camerino, in the scientific environment shaped by [Emanuela Merelli](https://www.emanuelamerelli.eu/), [Mario Rasetti](https://www.polito.it/en/staff?p=mario.rasetti), and the Topological Field Theory of Data programme.
+- How do local interactions, measurements, or constraints assemble into coherent system-level behaviour?
 
-This environment shaped my interest in mathematical and computational modelling of complex systems, topology-driven methods, categorical and geometric structures, and their applications to data, computation, quantum contextuality, and biological systems.
+- When does local consistency fail to produce a global model, as in contextuality, non-locality, or constrained network and biological systems?
 
-A central reference for this scientific line is [*Topological Field Theory of Data: Mining Data Beyond Complex Networks*](https://doi.org/10.1017/9781316403877.002), by Mario Rasetti and Emanuela Merelli.
+- How can topology, geometry, algebra, and stability reveal emergent structures, invariants, and transitions in complex systems?
 
-:::
-:::
+- How do computation, information, and structure interact in quantum, biological, and networked systems?
 
----
+- What mathematical models are appropriate when the underlying network, state space, or space of admissible transformations changes over time?
 
-## TOPDRIM — Topology Driven Methods for Complex Systems
+- How can biological and communication systems be modelled when their relevant levels, interfaces, and constraints are part of the dynamics rather than fixed background data?
 
-::: {.card}
-::: {.card-body}
-
-[TOPDRIM](https://www.topdrim.eu/), *Topology Driven Methods for Complex Systems*, was an EU FP7/FET-Proactive project coordinated by the University of Camerino under grant agreement `318121`. The project developed topology-driven mathematical and computational methods for multi-level complex systems, connecting topology, geometry, statistical physics, information theory, computer science, and biology.
-
-My doctoral work and later contextual-semantics research are connected to this scientific lineage through the Topological Field Theory of Data line developed at Camerino.
-
-### Links
-
-- [TOPDRIM project website](https://www.topdrim.eu/)
-- [TOPDRIM publications](https://www.topdrim.eu/publications/)
-- [CORDIS TOPDRIM record](https://cordis.europa.eu/project/id/318121)
-
-:::
-:::
+These questions connect my work on quantum contextuality, topology-driven computation, evolving networks, and multi-level biological organisation.
 
 ---
 
-## BCAM Mathematical, Computational and Experimental Neuroscience Environment
-
-::: {.card}
-::: {.card-body}
-
-My current postdoctoral work is based at the [Basque Center for Applied Mathematics](https://www.bcamath.org/en), within the Mathematical, Computational and Experimental Neuroscience research environment led by [Serafim Rodrigues](https://www.bcamath.org/en/people/bcam-members/srodrigues). This environment connects mathematical modelling, computational neuroscience, complex systems, topology-driven methods, and applications to biological and networked systems.
-
-Across the papers and manuscripts where explicitly acknowledged, my BCAM-based work has received support from:
-
-- grant [`PID2023-146683OB-I00`](https://www.bcamath.org/en/research/projects/mathematicians), funded by MICIU/AEI and ERDF, EU;
-- Ikerbasque Foundation;
-- Basque Government through the BERC 2022–2025 programme;
-- BCAM Severo Ochoa accreditation `CEX2021-001142-S`;
-- BCAM-IKUR, funded by the Basque Government, the IKUR Strategy, and the European Union NextGenerationEU/PRTR.
-
-### Links
-
-- [Serafim Rodrigues — BCAM profile](https://www.bcamath.org/en/people/bcam-members/srodrigues)
-- [MATHEMATICIANS — BCAM project page](https://www.bcamath.org/en/research/projects/mathematicians)
-
-:::
-:::
-
----
-
-## Selected Ongoing Projects
+## Research Areas
 
 ::: {.grid}
 
@@ -76,13 +39,13 @@ Across the papers and manuscripts where explicitly acknowledged, my BCAM-based w
 ::: {.card .h-100}
 ::: {.card-body}
 
-### The Evolving Reconfigurable Network Bundle: A Geometric Framework for Evolving Communication Systems
+### Quantum Foundations
 
-Public manuscript currently not available.
+I study non-locality, contextuality, Bell–Kochen–Specker models, and philosophical questions in quantum theory through topological, geometric, algebraic, and sheaf/bundle methods.
 
-This project develops a geometric framework for evolving communication systems in which network topology, configuration spaces, constraints, and admissible transformations evolve together. The central problem is dynamic feasibility: when can local configurations, paths, policies, or updates be assembled into globally coherent behaviour under changing network constraints?
+A central interest is the mathematical structure of contextuality: situations where local descriptions are meaningful, but cannot be assembled into a single globally consistent account. This perspective connects quantum foundations with local-to-global obstruction, symmetry principles, gauge-theoretic structure, and loop/interface holonomy.
 
-**Category:** evolving networks, communication systems, reconfigurable network structures, and mathematical models of network dynamics.
+[Explore this area →](quantum-foundations.qmd)
 
 :::
 :::
@@ -92,13 +55,153 @@ This project develops a geometric framework for evolving communication systems i
 ::: {.card .h-100}
 ::: {.card-body}
 
-### Optical Network Modelling and Sheaf-Theoretic Methods
+### Quantum Information and Computation
 
-Ongoing collaborative project with Serafim Rodrigues and Mathieu Desroches.
+I am interested in the mathematical structures behind quantum advantage and the role of contextuality as a computational resource. This direction connects quantum information, quantum computation, topology-driven computation, computational semantics, and foundational questions about quantum-causal structure.
 
-This project develops sheaf-theoretic mathematical models for optical and engineering networks, focusing on dynamic and heterogeneous network structure.
+More broadly, I study models of computation in which structure, constraints, and computation interact. In such systems, local computational processes are shaped by global organisation, while computation can also modify observable structures, invariants, or global organisation. This motivates a search for structural foundations of quantum algorithms and new forms of computation over changing spaces.
 
-**Category:** optical/engineering networks and mathematical models of networks.
+[Explore this area →](quantum-information-computation.qmd)
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### Topological, Geometric, and Algebraic Methods
+
+Across my work, I use mathematical structures from algebraic topology, sheaf theory, fibre bundles, obstruction theory, discrete Morse theory, category-theoretic ideas, and gauge/holonomy methods.
+
+These tools provide a language for studying local-to-global structure: how local data are glued, transported, constrained, or obstructed across a larger system. They appear in my work on quantum contextuality, evolving networks, biological organisation, and topology-driven computation.
+
+I am also interested in further mathematical directions where topology, geometry, algebra, and dynamics meet, including Morse–Floer–Conley theory, Hodge theory, topos theory, quantum topology, braid-theoretic structures, quantum cohomology, representation theory, and non-commutative geometry. These theories are important for understanding stability, invariants, transitions, and non-local structure in mathematical physics, computation, and complex systems.
+
+[Explore this area →](topological-geometric-algebraic-methods.qmd)
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### Evolving Networks and Communication Systems
+
+I study evolving, heterogeneous, and reconfigurable networked systems, especially communication systems where topology, configuration spaces, constraints, and admissible transformations change together.
+
+The central problem is dynamic feasibility. A path, update, policy, or reconfiguration may appear possible at the network level, but its feasibility can depend on hidden constraints, compatibility between local configurations, boundary conditions, and the changing structure of the system.
+
+I am especially interested in applications to strategic deployment, where decisions must be made under partial network information, resource constraints, and evolving operational conditions. This includes mathematical models for communication infrastructures, reconfigurable networks, and networked systems whose structure changes over time.
+
+[Explore this area →](evolving-networks-communication-systems.qmd)
+
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### Mathematical and Theoretical Biology
+
+I work on mathematical and theoretical models of multi-level biological processes, biological communication, circular causality, active interfaces, and adaptive ecological systems.
+
+This direction studies biological systems whose relevant levels, interfaces, constraints, histories, and admissible transformations cannot always be reduced to one fixed state space. I am interested in how local biological processes become coherent system-level events, and how structural change affects what the system can do.
+
+This line is connected to theoretical biology and the epistemology of biological organisation, including work associated with Giuseppe Longo and collaborators on biological time, organismal organisation, changing phase spaces, and the limits of purely mechanistic or fixed-state descriptions of living systems.
+
+[Explore this area →](mathematical-theoretical-biology.qmd)
+
+:::
+:::
+:::
+
+:::
+
+---
+
+## Models of Computation
+
+::: {.card}
+::: {.card-body}
+
+A further direction of my work concerns models of computation in which the underlying structure is not merely a passive substrate. I am interested in computational settings where data, constraints, topology, and admissible transformations interact, so that computation is shaped by the global organisation of the system.
+
+This perspective appears in my work on contextual semantics machines and topology-driven models of computation. The guiding idea is that computation may involve not only state transitions on a fixed space, but also structural changes in the space of possibilities, the emergence of global observables, and the interaction between local processes and non-local invariants.
+
+This direction connects quantum contextuality, quantum advantage, topological methods, and complex systems. It motivates the search for mathematical models of computation in which global structure, obstruction, stability, and emergence play an explicit role.
+
+:::
+:::
+
+---
+
+## Explore Further
+
+Each research area has a dedicated page with more detail, representative outputs, and related directions.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Quantum Foundations](quantum-foundations.qmd)
+
+Non-locality, contextuality, Bell–Kochen–Specker models, and philosophical questions in quantum theory.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Quantum Information and Computation](quantum-information-computation.qmd)
+
+Quantum advantage, contextuality as a computational resource, and topology-driven computation.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Topological, Geometric, and Algebraic Methods](topological-geometric-algebraic-methods.qmd)
+
+Algebraic topology, sheaf theory, fibre bundles, obstruction theory, and gauge/holonomy methods.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Evolving Networks and Communication Systems](evolving-networks-communication-systems.qmd)
+
+Evolving, heterogeneous, and reconfigurable networked systems.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Mathematical and Theoretical Biology](mathematical-theoretical-biology.qmd)
+
+Multi-level biological processes, biological communication, circular causality, and adaptive ecological systems.
 
 :::
 :::
@@ -116,9 +219,9 @@ This project develops sheaf-theoretic mathematical models for optical and engine
 ::: {.card .h-100}
 ::: {.card-body}
 
-### [Research](research.qmd)
+### [Publications](publications.qmd)
 
-Research areas, methods, and current directions.
+Peer-reviewed publications, theses, preprints, and public manuscripts.
 
 :::
 :::
@@ -128,9 +231,9 @@ Research areas, methods, and current directions.
 ::: {.card .h-100}
 ::: {.card-body}
 
-### [Publications](publications.qmd)
+### [Projects and Funding](projects.qmd)
 
-Peer-reviewed publications, theses, preprints, and public manuscripts.
+Research environments, funding context, and ongoing projects.
 
 :::
 :::
