@@ -1,0 +1,291 @@
+
+---
+title: "Quantum Foundations"
+page-layout: full
+---
+
+My work in quantum foundations studies non-locality, contextuality, Bell–Kochen–Specker models, and the mathematical structure of quantum theory. I am especially interested in why quantum systems resist a single globally consistent classical description, even when their local measurement contexts are individually meaningful and experimentally well defined.
+
+This work belongs to a long tradition in which quantum theory is studied through its underlying mathematical structures. Since the operator-theoretic and Hilbert-space formulation of quantum mechanics, the foundations of quantum theory have been investigated through algebraic, logical, categorical, geometric, and operational frameworks. Algebraic quantum mechanics studies observables and states through operator algebras; geometric formulations study quantum states through projective Hilbert space and symplectic or Kähler structures; topos-theoretic approaches reformulate quantum propositions and the Kochen–Specker theorem through contextual logic; sheaf-theoretic approaches represent non-locality and contextuality as failures of local data to assemble into a global section.
+
+Within this landscape, contextuality is one of the central non-classical features of quantum theory. It says, roughly, that the value assigned to a measurement cannot always be understood independently of the compatible measurements performed alongside it. Bell non-locality can be viewed as a special case of this broader local-to-global phenomenon: locally meaningful experimental data may fail to admit a single global classical explanation. This is the modern mathematical form of the tension behind Einstein’s worry about “spooky action at a distance,” Bell’s theorem, and the Kochen–Specker theorem.
+
+My research provides a geometric, topological, and gauge-theoretic understanding of contextuality and non-locality. It studies quantum contextuality through spaces of measurement contexts, local sections, fibres, transition maps, symmetry groups, loops, holonomy, obstruction classes, and structural change. In this viewpoint, contextuality is not only a probabilistic or logical anomaly; it is a structural failure of local descriptions to close into a globally coherent account.
+
+---
+
+## A Guiding Slogan
+
+::: {.callout-note title="A guiding slogan from anomaly theory"}
+
+Daniel S. Freed's formulation of anomaly theory gives a useful slogan for this perspective:
+
+> “Quantum theory is projective. Quantization is linear.”  
+> “The anomaly is the projectivity of a quantum theory.”
+
+This is not the same problem as contextuality, but it is conceptually close in spirit. In both cases, one meets a projective, cohomological, or obstruction-like feature of quantum theory: something locally meaningful resists being globally represented in a single ordinary classical or linear form. This is one reason why gauge, bundle, cohomological, and holonomy ideas are natural in the foundations of quantum theory.
+
+:::
+
+---
+
+## Where This Work Sits in the Literature
+
+Several existing programmes motivate this direction.
+
+Algebraic and operator-algebraic approaches show that quantum theory can be studied through the structure of observables, states, and non-commutative algebras rather than only through a chosen Hilbert-space representation. Geometric quantum mechanics shows that physical pure states are naturally represented by rays, or points in projective Hilbert space, and that quantum evolution can be understood through geometric structures on this space. Geometric quantization, Berry phase, and the Aharonov–Bohm effect show that line bundles, connections, phases, and holonomy are not merely formal analogies: they are part of the physical language of quantum theory.
+
+Topos-theoretic approaches, especially those associated with Isham, Butterfield, Döring, and collaborators, recast quantum theory through contextual logic and the absence of global elements of the spectral presheaf. Sheaf-theoretic approaches, especially the work of Abramsky and Brandenburger, show that contextuality and non-locality can be understood as obstructions to gluing local sections into one global section. Cohomological approaches then provide algebraic witnesses of such obstruction.
+
+This creates a powerful mathematical picture: contextuality is not merely an interpretive paradox. It is a precise local-to-global obstruction.
+
+My work develops this picture in a geometric and gauge-theoretic direction. It asks how the geometry behind contextuality can be made explicit enough to compare empirical models, classify strengths of contextuality, identify loop-level witnesses, and generate new contextual models from geometric or polyhedral data.
+
+---
+
+## An Oxford Motivation: Gauge Theory, Bundles, and Holonomy
+
+::: {.callout-tip title="Gauge theory, bundles, and holonomy"}
+
+A direct motivation for this direction comes from Giovanni Carù's Oxford work on logical and topological contextuality. Carù's thesis develops contextuality from the Abramsky–Brandenburger sheaf-theoretic framework and studies cohomological obstructions to global sections. In the discussion of future directions, it explicitly points toward gauge theory, principal-bundle descriptions of empirical models, and holonomy-based methods.
+
+> Carù points toward “empirical models as principal bundles” and “holonomy theory, to characterise contextuality.”
+
+This is precisely the line my work develops further. The gauge/bundle viewpoint treats empirical models not only as probability tables or logical supports, but as structured spaces with local charts, fibres, transition data, symmetry, loops, and global obstruction. It therefore provides a natural bridge between sheaf-theoretic contextuality, cohomological obstruction, gauge theory, and geometric models of quantum foundations.
+
+:::
+
+---
+
+## Gauge and Bundle Ideas in Quantum Theory
+
+Gauge and bundle ideas are already deeply present in quantum physics. In the Aharonov–Bohm effect, a quantum phase can depend on global gauge structure even when the local electromagnetic field vanishes along the particle's path. In Berry phase, adiabatic change produces a geometric phase naturally understood as holonomy. In geometric quantization, quantum states are represented through sections of line bundles with connection. In topological phases and topological quantum computation, global and braid-like structures become physically meaningful and computationally relevant.
+
+This background makes the gauge-theoretic study of contextuality natural. If quantum phases, quantum transport, topological matter, and measurement-based computation already use gauge, bundle, and holonomy structures, then contextuality can also be studied through this structural language. In this view, a contextual empirical model is not only a probability table or logical contradiction; it is a system of local descriptions whose global transport, symmetry, or gluing structure fails to close consistently.
+
+A useful way to see this is to compare standard quantum-mechanical concepts with the geometric language that appears in gauge and bundle formulations.
+
+| Standard quantum-mechanical concept | Geometric / gauge-theoretic language | Structural role |
+|---|---|---|
+| Hilbert space of states | Typical fibre, Hilbert bundle fibre, or local model space | Local space in which quantum states are represented |
+| Physical pure state | Ray or point in projective Hilbert space | State modulo physically irrelevant global phase |
+| Global phase freedom | Principal \(U(1)\) gauge freedom | Local choice of phase convention |
+| Wavefunction | Section of a line or Hilbert bundle | Assignment of state data over a base space |
+| Inner product | Hermitian fibre metric | Probability amplitudes, transition amplitudes, and geometric distances |
+| Observable / self-adjoint operator | Fibrewise operator or section of an endomorphism bundle | Quantity measured locally in a state space |
+| Spectral decomposition | Decomposition into eigenspaces or eigenbundles | Measurement alternatives as structured subspaces |
+| Projective measurement | Projection onto eigenspaces / local context decomposition | Selection of compatible outcomes in a measurement context |
+| Born rule | Fibrewise Hermitian probability rule | Converts state geometry into probabilities |
+| Unitary evolution | Parallel transport or bundle automorphism | Structure-preserving evolution of states |
+| Hamiltonian | Generator of unitary transport or connection-like data | Dynamical rule for evolution |
+| Parameter-dependent Hamiltonian | Bundle over parameter space | Family of quantum systems over changing external conditions |
+| Berry phase | Holonomy of a connection | Global phase accumulated around a closed path |
+| Aharonov–Bohm phase | Gauge holonomy around inaccessible field region | Physical effect of global gauge structure |
+| Density matrix | Section of a bundle of positive trace-class operators | Mixed-state or statistical quantum description |
+| Quantum channel | Fibrewise completely positive map | Transformation between local quantum state spaces |
+| Composite system | Tensor product / associated structured fibre | Multi-part system with correlations |
+| Entanglement | Non-separable structure in composite fibres | Correlation not reducible to independent subsystems |
+| Measurement context | Local chart or local compatibility region | Set of jointly meaningful measurements |
+| Non-contextual hidden-variable model | Global section over all contexts | Single classical assignment explaining all local data |
+| Contextuality | Obstruction to global section | Failure of local descriptions to assemble globally |
+| Measurement-based computation | Gauge-structured measurement process | Computation by local measurements with global consistency |
+| Computational output in gauge-theoretic MBQC | Holonomy-like global quantity | Result encoded by global structure rather than one local step |
+| Braiding / topological quantum computation | Path, braid, or monodromy structure | Computation organized by topological transformation classes |
+
+This table is not meant to identify every quantum concept literally with one bundle concept. It is a guide to the structural translation: gauge and bundle theory provide a language for local state spaces, phase freedom, measurement contexts, transport, global sections, loops, and holonomy. My work uses this language to study contextuality as a local-to-global obstruction with possible structural consequences.
+
+---
+
+## Core Research Problem
+
+The central problem is:
+
+> How can quantum contextuality and non-locality be understood as geometric, topological, and symmetry-based phenomena?
+
+More concretely, my work asks:
+
+- How can empirical quantum models be represented by explicit geometric or combinatorial spaces?
+- How can local measurement contexts be interpreted as local sections, fibres, or symmetry-preserving transformations?
+- What kind of obstruction prevents locally meaningful data from assembling into a global classical account?
+- Can contextuality be detected through loops, holonomy, critical simplices, virtual/interface loops, or obstruction classes?
+- Can one distinguish different strengths of contextuality through the topology, symmetry, or transition structure of the associated space?
+- Can contextuality be understood as a marker of structural change, where not only values or functions vary, but the underlying context structure itself may need to be reorganised?
+- Can one reverse the usual procedure and generate new contextual models from a given topological or polyhedral structure?
+
+The guiding idea is that contextuality is a structural phenomenon. Local data live over a space of contexts; global non-classicality appears when these data cannot be transported, glued, or returned consistently across the whole structure.
+
+---
+
+## Structural Change and Contextuality
+
+A distinctive feature of my work is the interpretation of contextuality as an indicator of structural change.
+
+In many approaches, contextuality is treated as a property of a fixed measurement scenario: one asks whether a family of local probability distributions has a global hidden-variable explanation. My work keeps this local-to-global question, but also asks what contextuality means when the underlying context space, topology, or admissible transformations can themselves change.
+
+This leads to a structural reading of contextuality. A contextual obstruction may indicate that the system cannot remain within the same global organisation while preserving all local constraints. In that case, contextuality does not merely say that a classical assignment is impossible; it may signal that the scaffold of contexts, transitions, or admissible configurations must be reorganised.
+
+This is where critical simplices, virtual/interface loops, and holonomy become important. Critical simplices identify local structural pivots where the representation may need to change. Interface loops detect minimal cycles of local compatibility that fail to close globally. Holonomy records the accumulated obstruction around such loops. Together, these objects allow contextuality to be read not only as a static no-go theorem, but as a possible marker of structural transition.
+
+This idea also connects quantum foundations with complex systems: in both cases, the central issue is how local constraints assemble into global organisation, and what happens when the structure carrying those constraints can evolve.
+
+---
+
+## What My Work Contributes
+
+My work contributes a geometric and structural interpretation of contextuality and non-locality in several ways.
+
+First, it develops a bundle/gauge-theoretic representation of contextuality. This provides a geometric counterpart to the sheaf-theoretic local-to-global picture, making the roles of fibres, transition structure, symmetry, and holonomy explicit.
+
+Second, it associates empirical models with explicit topological or combinatorial spaces, often represented through simplicial or polyhedral structures. This allows one to compare contextuality models not only through probability tables or logical constraints, but also through the topology and symmetry of their associated spaces.
+
+Third, it introduces loop-level and Morse-theoretic diagnostics. Critical simplices and virtual/interface loops are used to identify where local compatibility fails to extend globally, and to interpret contextuality as a possible marker of structural transition.
+
+Fourth, it applies the framework to standard models in quantum foundations, including Hardy, Bell, GHZ, PR-box, Kochen–Specker/KCBS, Svetlichny, liar-cycle, trivial, and tetrahedral examples. This makes the framework comparative: different empirical models can be studied through one structural language.
+
+Fifth, it explores a reverse direction: instead of starting only with a known empirical table and asking whether it is contextual, one can begin from a topological or polyhedral structure and ask what kind of contextual empirical model it may generate. This direction may be useful for proposing higher-dimensional or hyper-contextual scenarios.
+
+---
+
+## Why This Matters
+
+This research is relevant for foundations, physics, causality, and computation.
+
+First, it contributes to the philosophy and foundations of quantum theory. It interprets contextuality not only as a failure of hidden variables, but as a structural obstruction in a space of contexts. This connects quantum foundations with geometry, topology, algebra, and the logic of local-to-global construction. It also contributes to the philosophy of quantum physics by asking what kind of mathematical object a quantum phenomenon is: a probability table, a logical contradiction, a symmetry constraint, a geometric obstruction, or a structural transition.
+
+Second, it connects contextuality with gauge and geometric structures already familiar in physics. Holonomy, connections, bundles, and gauge transformations occur in Berry phase, Aharonov–Bohm physics, geometric quantization, topological phases, anomalies, and gauge-theoretic formulations of quantum dynamics. A gauge-theoretic view of contextuality therefore places contextuality within a broader physical language of transport, phase, symmetry, and global observables.
+
+Third, it may contribute to quantum causal modelling. Classical causal explanations assume that local variables can be organised into a coherent global causal structure. Contextuality and non-locality challenge this assumption. A bundle/gauge view can help separate local compatibility, global causal explanation, and structural obstruction, and may provide new language for studying quantum-causal scenarios where the global organisation of interventions, contexts, or processes is itself non-classical.
+
+Fourth, it connects to quantum information and computation. Contextuality is increasingly studied as a resource for quantum advantage, especially in magic-state computation and measurement-based quantum computation. Gauge-theoretic approaches to measurement-based quantum computation show that computational output can be interpreted as a holonomy-like global quantity, and measurement-basis adaptation as a gauge transformation. This suggests that loop, holonomy, and obstruction structures may be relevant not only for interpreting contextuality, but also for understanding the structure behind quantum algorithms and possible new computational architectures.
+
+Fifth, it opens a route toward new model-building strategies. If contextuality can be detected through loop, holonomy, or obstruction data, then one can ask whether such structures can guide the design of new contextual scenarios, new quantum-information protocols, or new mathematical diagnostics for non-classical behaviour.
+
+---
+
+## Representative Outputs
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### The Gauge-Theoretic Structure of Non-Locality and Contextuality
+
+This manuscript develops a gauge-theoretic and bundle-theoretic interpretation of non-locality and contextuality. It studies contextuality through local-to-global obstruction, symmetry principles, loop/interface holonomy, critical simplices, virtual loops, structural change, and the geometry of empirical models. It also applies the framework to several standard contextuality models and explores the reverse problem of generating contextual models from geometric or polyhedral data.
+
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### The Bundle-Theoretic Structure and Computational Modeling of Quantum Contextuality
+
+This work develops a bundle-theoretic and computational model of quantum contextuality. It connects empirical models, bundle diagrams, local-to-global obstruction, topology-driven computation, and contextual semantics machines. It also situates contextuality within a broader computational and semantic framework, linking quantum foundations with quantum cognition and models of computation.
+
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### Contextual Semantics Machinery
+
+This thesis and related public manuscript develop the broader contextual-semantics programme behind this work. They study how local contextual data, topological structures, and computational semantics can be organised into a mathematical framework for complex systems and quantum contextuality.
+
+:::
+:::
+:::
+
+:::
+
+---
+
+## Current Directions
+
+My current interests in quantum foundations include:
+
+- geometric and gauge-theoretic models of contextuality;
+- non-locality and local-to-global obstruction;
+- symmetry principles in empirical quantum models;
+- topological and cohomological witnesses of contextuality;
+- holonomy and loop observables in contextual structures;
+- contextuality as a possible resource for quantum computation;
+- quantum-causal and operational structures in foundational scenarios;
+- contextuality as a marker of structural change;
+- reverse constructions of contextual models from geometric or topological data;
+- links between contextuality, quantum advantage, and the foundations of quantum algorithms;
+- relations between contextuality, gauge structure, topological quantum computation, and braid-like models of quantum processes.
+
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Quantum Information and Computation](quantum-information-computation.qmd)
+
+Quantum advantage, contextuality as a computational resource, topology-driven computation, and foundational structures behind quantum algorithms.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Topological, Geometric, and Algebraic Methods](topological-geometric-algebraic-methods.qmd)
+
+Algebraic topology, sheaf theory, fibre bundles, obstruction theory, gauge/holonomy methods, and related mathematical structures.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Research](research.qmd)
+
+Return to the research overview.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Publications](publications.qmd)
+
+Peer-reviewed publications, theses, preprints, and public manuscripts.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Projects and Funding](projects.qmd)
+
+Research environments, funding context, and ongoing projects.
+
+:::
+:::
+:::
+
+:::
