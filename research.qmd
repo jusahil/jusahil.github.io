@@ -1,45 +1,151 @@
 ---
-title: "Research"
-description: "Research themes and conceptual overview."
+title: "Projects and Funding"
+page-layout: full
 ---
 
-## Overview
+My research has developed across two connected academic settings: the Topological Field Theory of Data programme at the University of Camerino and the Mathematical, Computational and Experimental Neuroscience group at the Basque Center for Applied Mathematics.
 
-My research develops mathematical language for systems whose organization cannot be reduced to a fixed state space or a single-level dynamical model. The central question is:
+---
 
-> When do locally admissible structures, interactions, or transitions assemble into a globally realizable system-level process?
+## BioShape & Data Science Lab and Topological Field Theory of Data
 
-This question appears in biological organization, molecular communication, evolving networks, contextual systems, and multi-scale systems where interfaces actively mediate what can or cannot happen.
+::: {.card}
+::: {.card-body}
 
-## Research themes
+My doctoral research was developed in the [BioShape & Data Science Lab](https://www.emanuelamerelli.eu/bigdata/) at the University of Camerino, in the scientific environment shaped by [Emanuela Merelli](https://www.emanuelamerelli.eu/), [Mario Rasetti](https://www.polito.it/en/staff?p=mario.rasetti), and the Topological Field Theory of Data programme.
 
-### Constraint semantics for multi-level organization
+This environment shaped my interest in mathematical and computational modelling of complex systems, topology-driven methods, categorical and geometric structures, and their applications to data, computation, quantum contextuality, and biological systems.
 
-This line of work studies biological and complex systems as structured spaces of admissible organization. The aim is to distinguish:
+A central reference for this scientific line is [*Topological Field Theory of Data: Mining Data Beyond Complex Networks*](https://doi.org/10.1017/9781316403877.002), by Mario Rasetti and Emanuela Merelli.
 
-- the organizational scaffold of possible relations;
-- the local state spaces attached to different levels or components;
-- the admissible transitions between coherent configurations;
-- the interface constraints that determine whether a local process can be lifted to a global realization.
+:::
+:::
 
-### Evolving simplicial and network bundles
+---
 
-I use simplicial and bundle-like structures to model systems in which both the underlying organization and the local configuration spaces may evolve. This is especially useful for communication networks, biological signaling pathways, and systems with changing interaction topology.
+## TOPDRIM — Topology Driven Methods for Complex Systems
 
-### Interfaces, loops, and circular causality
+::: {.card}
+::: {.card-body}
 
-Many biological systems exhibit feedback across levels. I study interface loops as diagnostic objects: they record whether a process that appears cyclic at an operational level actually returns coherently in the lifted multi-level state space.
+[TOPDRIM](https://www.topdrim.eu/), *Topology Driven Methods for Complex Systems*, was an EU FP7/FET-Proactive project coordinated by the University of Camerino under grant agreement `318121`. The project developed topology-driven mathematical and computational methods for multi-level complex systems, connecting topology, geometry, statistical physics, information theory, computer science, and biology.
 
-### Local-to-global obstruction methods
+My doctoral work and later contextual-semantics research are connected to this scientific lineage through the Topological Field Theory of Data line developed at Camerino.
 
-A recurring mathematical theme is the failure of local compatibility to imply global compatibility. This leads naturally to obstruction, cohomological, holonomy, and path-dependence diagnostics. In applications, such diagnostics can identify when a proposed reconfiguration, signalling loop, or multi-scale process is not realizable without changing the underlying structure.
+### Links
 
-## Application domains
+- [TOPDRIM project website](https://www.topdrim.eu/)
+- [TOPDRIM publications](https://www.topdrim.eu/publications/)
+- [CORDIS TOPDRIM record](https://cordis.europa.eu/project/id/318121)
 
-- multi-level biological organization;
-- Hodgkin-type signalling loops and circular causality;
-- molecular and nano-biological communication;
-- viral release and membrane remodeling;
-- evolving communication networks;
-- dynamic ecological and eco-evolutionary networks;
-- contextuality and local-global compatibility in physical systems.
+:::
+:::
+
+---
+
+## BCAM Mathematical, Computational and Experimental Neuroscience Environment
+
+::: {.card}
+::: {.card-body}
+
+My current postdoctoral work is based at the [Basque Center for Applied Mathematics](https://www.bcamath.org/en), within the Mathematical, Computational and Experimental Neuroscience research environment led by [Serafim Rodrigues](https://www.bcamath.org/en/people/bcam-members/srodrigues). This environment connects mathematical modelling, computational neuroscience, complex systems, topology-driven methods, and applications to biological and networked systems.
+
+Across the papers and manuscripts where explicitly acknowledged, my BCAM-based work has received support from:
+
+- grant [`PID2023-146683OB-I00`](https://www.bcamath.org/en/research/projects/mathematicians), funded by MICIU/AEI and ERDF, EU;
+- Ikerbasque Foundation;
+- Basque Government through the BERC 2022–2025 programme;
+- BCAM Severo Ochoa accreditation `CEX2021-001142-S`;
+- BCAM-IKUR, funded by the Basque Government, the IKUR Strategy, and the European Union NextGenerationEU/PRTR.
+
+### Links
+
+- [Serafim Rodrigues — BCAM profile](https://www.bcamath.org/en/people/bcam-members/srodrigues)
+- [MATHEMATICIANS — BCAM project page](https://www.bcamath.org/en/research/projects/mathematicians)
+
+:::
+:::
+
+---
+
+## Selected Ongoing Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### The Evolving Reconfigurable Network Bundle: A Geometric Framework for Evolving Communication Systems
+
+Public manuscript currently not available.
+
+This project develops a geometric framework for evolving communication systems in which network topology, configuration spaces, constraints, and admissible transformations evolve together. The central problem is dynamic feasibility: when can local configurations, paths, policies, or updates be assembled into globally coherent behaviour under changing network constraints?
+
+**Category:** evolving networks, communication systems, reconfigurable network structures, and mathematical models of network dynamics.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### Optical Network Modelling and Sheaf-Theoretic Methods
+
+Ongoing collaborative project with Serafim Rodrigues and Mathieu Desroches.
+
+This project develops sheaf-theoretic mathematical models for optical and engineering networks, focusing on dynamic and heterogeneous network structure.
+
+**Category:** optical/engineering networks and mathematical models of networks.
+
+:::
+:::
+:::
+
+:::
+
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Research](research.qmd)
+
+Research areas, methods, and current directions.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Publications](publications.qmd)
+
+Peer-reviewed publications, theses, preprints, and public manuscripts.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Contact](contact.qmd)
+
+Affiliation, email, and academic links.
+
+:::
+:::
+:::
+
+:::
