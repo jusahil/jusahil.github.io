@@ -1,1 +1,178 @@
+---
+title: "Evolving Networks and Communication Systems"
+page-layout: full
+---
+
+My work on evolving networks studies communication systems whose topology, configuration state, physical constraints, policies, and operational context change together. The central question is not only whether a route exists in a graph, but whether a time-varying path, update, service request, or reconfiguration can be realized as one globally coherent communication behaviour.
+
+Modern infrastructures make this question unavoidable. Software-defined networks, IP/optical backbones, wireless and dynamic-spectrum systems, satellite/contact-plan networks, and optical transport systems are heterogeneous, multilayered, and continually reconfigured. A candidate path may be present at the graph level, but it may still fail because labels do not align, policies conflict, optical margins are violated, boundary resources are exhausted, or local configurations cannot be transported consistently across time and layers.
+
+This motivates a structural view of network feasibility.
+
+---
+
+## From Network Paths to Dynamic Realizability
+
+::: {.card}
+::: {.card-body}
+
+Classical network models provide powerful tools. Temporal graphs and time-expanded networks represent time-varying connectivity; multilayer and multiplex networks represent heterogeneous layers; network sheaves organize local data and compatibility; connection and synchronization methods study transported data around cycles.
+
+My work builds on these modelling traditions, but shifts the focus from reachability, optimization, or local consistency to **dynamic realizability**:
+
+> When can local routes, policies, physical constraints, and configuration states be assembled into one globally coherent communication behaviour across time, layers, and operational boundaries?
+
+The problem is local-to-global. Local checks may say that each hop, slice, wavelength, channel, policy, or controller state is admissible. But global feasibility requires more: these local decisions must remain compatible across time, interfaces, layers, and boundary commitments. A network may therefore be locally feasible but globally obstructed.
+
+:::
+:::
+
+---
+
+## Evolving Reconfigurable Network Bundles
+
+::: {.card}
+::: {.card-body}
+
+The main formalism I develop for this problem is the **Evolving Reconfigurable Network Bundle** framework.
+
+The idea is to model an evolving communication system as a single space-time-configuration object. The base records the changing network architecture across time. The fibres record local configuration states, such as labels, wavelengths, modes, controller views, spectrum assignments, optical margins, or policy frames. The connection or transport structure records how configurations are carried across space, time, layers, and interfaces.
+
+In this setting, dynamic feasibility becomes a lift or extension problem. A path, schedule, update, or reconfiguration is feasible only if it can be lifted from the evolving network carrier into a globally compatible configuration over the relevant space-time region, while respecting boundary conditions and operational constraints.
+
+This changes the question from:
+
+> Did a routing heuristic find a path?
+
+to:
+
+> Does a globally compatible evolving configuration exist under the encoded constraints?
+
+When no such lift exists, the obstruction can be represented through cohomological data and loop observables on interface cycles. These observables are useful because they can identify global incompatibility that is not visible from isolated time slices or purely local feasibility checks.
+
+:::
+:::
+
+---
+
+## Relation to Existing Network Formalisms
+
+::: {.card}
+::: {.card-body}
+
+The framework is designed to be continuous with existing network theory rather than separate from it.
+
+Time-expanded networks appear when evolution is represented by an enlarged carrier but configuration transport is trivial or externally handled. Multilayer networks appear when the base records layers but the fibre dynamics and transport structure are restricted. Network sheaf models appear when local data and compatibility are emphasized on a fixed or weakly evolving carrier. Connection and synchronization formalisms appear when the main structure is transported data around cycles.
+
+The ERNB viewpoint integrates these ingredients into one geometric object: evolving carrier, local configurations, boundary commitments, admissible transport, and global obstruction. Its novelty is not the isolated use of graphs, sheaves, bundles, or gauge language. The novelty is the formulation of evolving communication feasibility as a single local-to-global structural problem.
+
+This gives a unifying geometric language for several network settings: traffic engineering, SDN updates, optical service provisioning, dynamic spectrum access, satellite-style evolving connectivity, and other heterogeneous communication systems.
+
+:::
+:::
+
+---
+
+## Partial Information and Strategic Deployment
+
+::: {.card}
+::: {.card-body}
+
+A further direction concerns strategic deployment under partial information.
+
+In practical settings, one often does not have full access to the entire network. The visible network may be only a local region or operational window; parts of the system may be hidden, uncertain, or too large to reconstruct; and decisions may need to be made under latency, memory, or computational constraints.
+
+For this setting, I study a partial-information certification screen: under incomplete access, latent uncertainty, heterogeneity, and resource limits, what can be soundly ruled out?
+
+This is deliberately one-sided. A successful certificate can show that a proposed action is infeasible under all compatible latent completions considered by the model. But failure to certify does not prove feasibility. It only means that the available information and resource budget were insufficient to produce a sound no-go certificate.
+
+This makes the framework suitable for deployment-time reasoning, where full reconstruction may be impossible but local structural witnesses can still provide useful information.
+
+:::
+:::
+
+---
+
+## Optical and Engineering Network Modelling
+
+::: {.card}
+::: {.card-body}
+
+A related ongoing line studies sheaf-theoretic mathematical models for optical and engineering networks.
+
+The point is not that sheaves on networks are new by themselves. The contribution is the optical feasibility semantics built on top of the local-to-global language. Local optical records, compatibility rules, request boundaries, physical evaluators, and provisioning updates are interpreted in optical-network terms.
+
+In optical transport, a service request is not feasible merely because a corridor exists. The controller must also consider endpoint availability, port and switching compatibility, wavelength or spectrum continuity, QoT, OSNR, energy, margin, and the effect of accepting one service on later requests.
+
+A sheaf-theoretic model can separate these layers: support availability, boundary admissibility, structural extension, physical filtering, and provisioning-induced change of future feasibility. This gives an engineer-readable way to distinguish why a request is blocked, instead of reporting only that it failed.
+
+:::
+:::
+
+---
+
+## What This Direction Contributes
+
+::: {.card}
+::: {.card-body}
+
+This research contributes a structural language for evolving communication systems.
+
+It turns evolving network feasibility from a sequence of local checks into a structural existence problem over a coupled space-time/configuration object. It treats network evolution and configuration dynamics together rather than as separate objects. It distinguishes local admissibility from global realizability. It separates graph-level reachability from configuration-level feasibility. It also provides a path toward resource-bounded certification under partial information.
+
+The broader aim is to develop mathematical models that can support strategic reasoning in complex communication infrastructures: not only how to find a path, but how to understand when a path, update, or service request is structurally realizable in an evolving system.
+
+:::
+:::
+
+---
+
+## Current Directions
+
+::: {.card}
+::: {.card-body}
+
+My current interests in this area include:
+
+- evolving reconfigurable communication systems;
+- dynamic feasibility and boundary-conditioned reconfiguration;
+- space-time models of networks;
+- local-to-global obstruction and loop observables;
+- SDN, optical, wireless, spectrum-sharing, and satellite-style systems;
+- partial-information certification under resource constraints;
+- mathematical models of optical and engineering networks;
+- structural methods for strategic deployment in heterogeneous network systems.
+
+:::
+:::
+
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Topological, Geometric, and Algebraic Methods](topological-geometric-algebraic-methods.qmd)
+
+Geometric and categorical methods for local-to-global structure, obstruction, transport, and structural change.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Mathematical and Theoretical Biology](mathematical-theoretical-biology.qmd)
+
+Multi-level biological organisation, biological communication, circular causality, and adaptive systems.
+
+:::
+:::
+:::
 
