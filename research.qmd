@@ -33,6 +33,12 @@ These questions connect my work on quantum contextuality, topology-driven comput
 
 ## Research Areas
 
+The research areas below are organised into three layers: foundational physics, mathematical and computational structures, and complex systems and applications.
+
+---
+
+## Foundational Physics
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
@@ -67,6 +73,14 @@ More broadly, I study models of computation in which structure, constraints, and
 :::
 :::
 
+:::
+
+---
+
+## Mathematical and Computational Structures
+
+::: {.grid}
+
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100}
 ::: {.card-body}
@@ -89,6 +103,32 @@ I am also interested in further mathematical directions where topology, geometry
 ::: {.card .h-100}
 ::: {.card-body}
 
+### Models of Computation
+
+A further direction of my work concerns models of computation in which the underlying structure is not merely a passive substrate. I am interested in computational settings where data, constraints, topology, and admissible transformations interact, so that computation is shaped by the global organisation of the system.
+
+This perspective appears in my work on contextual semantics machines and topology-driven models of computation. The guiding idea is that computation may involve not only state transitions on a fixed space, but also structural changes in the space of possibilities, the emergence of global observables, and the interaction between local processes and non-local invariants.
+
+This direction connects quantum contextuality, quantum advantage, topological methods, and complex systems. It motivates the search for mathematical models of computation in which global structure, obstruction, stability, and emergence play an explicit role.
+
+[Explore this area →](models-of-computation.qmd)
+
+:::
+:::
+:::
+
+:::
+
+---
+
+## Complex Systems and Applications
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
 ### Evolving Networks and Communication Systems
 
 I study evolving, heterogeneous, and reconfigurable networked systems, especially communication systems where topology, configuration spaces, constraints, and admissible transformations change together.
@@ -103,7 +143,7 @@ I am especially interested in applications to strategic deployment, where decisi
 :::
 :::
 
-::: {.g-col-12}
+::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100}
 ::: {.card-body}
 
@@ -121,22 +161,6 @@ This line is connected to theoretical biology and the epistemology of biological
 :::
 :::
 
-:::
-
----
-
-## Models of Computation
-
-::: {.card}
-::: {.card-body}
-
-A further direction of my work concerns models of computation in which the underlying structure is not merely a passive substrate. I am interested in computational settings where data, constraints, topology, and admissible transformations interact, so that computation is shaped by the global organisation of the system.
-
-This perspective appears in my work on contextual semantics machines and topology-driven models of computation. The guiding idea is that computation may involve not only state transitions on a fixed space, but also structural changes in the space of possibilities, the emergence of global observables, and the interaction between local processes and non-local invariants.
-
-This direction connects quantum contextuality, quantum advantage, topological methods, and complex systems. It motivates the search for mathematical models of computation in which global structure, obstruction, stability, and emergence play an explicit role.
-
-:::
 :::
 
 ---
@@ -183,7 +207,19 @@ Algebraic topology, sheaf theory, fibre bundles, obstruction theory, and gauge/h
 :::
 :::
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Models of Computation](models-of-computation.qmd)
+
+Topology-driven, contextual, and structure-sensitive models of computation.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100}
 ::: {.card-body}
 
@@ -195,7 +231,7 @@ Evolving, heterogeneous, and reconfigurable networked systems.
 :::
 :::
 
-::: {.g-col-12 .g-col-md-6}
+::: {.g-col-12 .g-col-md-4}
 ::: {.card .h-100}
 ::: {.card-body}
 
