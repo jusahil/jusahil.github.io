@@ -1,1 +1,113 @@
+---
+title: "Quantum Information and Computation"
+page-layout: full
+---
 
+This is a developing direction in my work. My current entry into quantum information and computation comes through the mathematical structure of quantum contextuality.
+
+The central question is:
+
+> **How can the structure of contextuality be used as a resource for quantum computation and quantum-information protocols?**
+
+My work does not yet present a completed quantum-algorithm programme. Rather, it starts from my foundational work on contextuality, where contextuality is treated as a geometric and gauge-theoretic phenomenon. In this view, contextuality is not only a yes/no violation of classical explanation. It is a structural signal: it indicates where local compatibility fails globally, where non-local observables become relevant, and where the underlying space of contexts may need to change.
+
+This gives a concrete way to think about contextuality as a resource. The resource is not merely that contextuality is present. The resource is the information carried by its structure: loop observables, obstruction data, and critical regions that show where a protocol or system changes its global organisation. Such information may be useful because it can reveal global features of a quantum process without requiring full reconstruction of every local detail.
+
+This direction is motivated by the fact that entanglement alone does not fully explain quantum computational advantage. Stabilizer and Clifford-type processes can involve entanglement while remaining efficiently classically simulable. This is why the quantum-information community studies more refined resources such as magic, non-stabilizer structure, contextuality, measurement adaptivity, and global constraints. My aim is to contribute to this discussion by asking what the **mathematical structure** of these resources is.
+
+A natural setting for this viewpoint is measurement-based quantum computation. In MBQC, computation is driven by local measurements, adaptive choices, and global consistency rather than only by a fixed sequence of gates. Gauge-theoretic approaches to MBQC show that computational output can be understood through holonomy-like global structure, while changes of measurement basis can be understood as gauge transformations. This is close to my bundle/gauge approach to contextuality, where local choices, transitions between contexts, and global loop observables are central.
+
+This also motivates a dynamical view of contextuality. Many protocols are not static: measurement choices, experimental conditions, resources, and background structures may evolve during the process. A useful theory of contextuality for quantum information should therefore track not only whether a fixed scenario is contextual, but how contextual structure appears, moves, persists, or disappears during a protocol.
+
+I am also interested in translating this direction into braid-theoretic and topological-computation language. Topological quantum computation and braid-group representations show that global topological structure can participate directly in computation. A concrete long-term benchmark is the approximation of Jones polynomials, where quantum algorithms already connect braid representations, topology, and computational complexity. My interest is to understand whether the loop-obstruction and contextual-structure viewpoint can give new insight into such topological quantum algorithms and related protocols.
+
+The goal is therefore not only computational speedup. It is also computational expressiveness: understanding what kinds of global structure, contextual obstruction, topology, and gauge symmetry make quantum computation different from purely local computation on a fixed background.
+
+---
+
+## Current Directions
+
+::: {.card}
+::: {.card-body}
+
+My current interests in this direction include:
+
+- contextuality as a structural resource for quantum computation;
+- loop observables and obstruction data in adaptive quantum protocols;
+- dynamical contextuality in evolving measurement scenarios;
+- gauge structure and holonomy in measurement-based quantum computation;
+- the relation between contextuality, magic, and non-stabilizer resources;
+- braid-theoretic and topological models of quantum computation;
+- structural approaches to quantum algorithms and quantum protocols;
+- possible links between contextuality, topological quantum computation, and approximation of Jones polynomials.
+
+:::
+:::
+
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Quantum Foundations](quantum-foundations.qmd)
+
+Geometric, gauge-theoretic, and topological approaches to contextuality, non-locality, and Bell–Kochen–Specker models.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Topological, Geometric, and Algebraic Methods](topological-geometric-algebraic-methods.qmd)
+
+Algebraic topology, sheaf theory, fibre bundles, obstruction theory, gauge/holonomy methods, and related mathematical structures.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Research](research.qmd)
+
+Return to the research overview.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Publications](publications.qmd)
+
+Peer-reviewed publications, theses, preprints, and public manuscripts.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Projects and Funding](projects.qmd)
+
+Research environments, funding context, and ongoing projects.
+
+:::
+:::
+:::
+
+:::
