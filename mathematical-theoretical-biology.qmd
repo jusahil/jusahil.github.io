@@ -1,1 +1,235 @@
+---
+title: "Mathematical and Theoretical Biology"
+page-layout: full
+---
 
+My work in mathematical and theoretical biology studies biological organisation as a multi-level, constraint-based, and historically changing process. I am interested in living systems in which molecular, cellular, physiological, behavioural, and ecological levels do not act as isolated layers, but constrain one another through interfaces, feedback, histories, and changing spaces of possibility.
+
+The central question is:
+
+> **When do local biological processes assemble into one coherent system-level organisation?**
+
+This question is the biological form of a broader local-to-global problem. A local mechanism may be admissible at one level, but biological organisation depends on whether many such mechanisms can be assembled across levels, interfaces, and histories into one globally realizable process.
+
+---
+
+## Organisation Beyond Fixed State Spaces
+
+::: {.card}
+::: {.card-body}
+
+Much of classical mathematical modelling begins by choosing a state space and then writing dynamics on that space. This is powerful, but living systems often challenge this assumption. The relevant variables, constraints, interfaces, and possible transitions may change with development, adaptation, physiological regime, environmental context, or evolutionary history.
+
+This problem is central to modern theoretical biology. Noble’s biological relativity emphasizes that there is no privileged causal level in living systems. Longo, Montévil, and Kauffman emphasize changing spaces of possibilities, enablement, and the limits of fixed phase-space descriptions in biology. Montévil and Mossio’s closure-of-constraints framework studies biological organisation through mutually dependent constraints rather than through isolated causal chains.
+
+My work contributes to this line by developing a constraint-semantic language for multi-level organisation. The framework adds a structural layer above local mechanisms: it asks when local rules, constraints, interfaces, and histories form an admissible biological organisation.
+
+:::
+:::
+
+---
+
+## Constraint Semantics for Multi-Level Organisation
+
+::: {.card}
+::: {.card-body}
+
+This direction is anchored in my preprint *Constraint Semantics for Multi-level Organisation*.
+
+The main idea is to distinguish two levels of description:
+
+1. the **organisational scaffold**: the evolving structure of levels, interfaces, contexts, and admissible patterns;
+2. the **state or process data** carried by that scaffold: molecular states, signalling configurations, physiological regimes, ecological interactions, or behavioural patterns.
+
+This distinction matters because biological processes are not always trajectories in one fixed state space. A process may be locally admissible at each stage and still fail to form one coherent system-level event. Conversely, a system may appear to return to the same operational point while its internal organisation, parameterization, or interface state has changed.
+
+The framework therefore treats biological organisation as a structured space of admissible configurations, transitions, interfaces, and histories. Local processes are not judged only by whether they are individually possible. They are judged by whether they can be assembled into an admissible multi-level history.
+
+This gives a mathematical language for:
+
+- local admissibility versus global biological realizability;
+- cross-level interfaces and active boundaries;
+- circular causality and multi-level feedback;
+- operational closure versus homogeneous recurrence;
+- functional reparameterization versus structural reorganisation;
+- changing spaces of biological possibility.
+
+:::
+:::
+
+---
+
+## Cross-Scale Biological Communication and the Hodgkin Loop
+
+::: {.card}
+::: {.card-body}
+
+A concrete case study is the Hodgkin spike.
+
+A spike is often described as a cycle: resting state, depolarization, repolarization, and return. But this operational closure does not mean that the biological system has returned to an identical local state in one fixed state space. A spike involves molecular channel states, membrane excitability, ionic recovery, cellular context, threshold modulation, and history-dependent effects.
+
+In my cross-scale signalling work, the Hodgkin spike is treated as a trace through a stratified biological architecture. Molecular, membrane, and cellular regimes form distinct but connected levels. Active interface regions encode where cross-level coupling occurs. A pathway is biologically realizable only when its lifted history preserves compatibility across these interfaces.
+
+This separates three notions:
+
+- each local signalling step is admissible;
+- the pathway closes operationally;
+- the lifted multi-level process is globally realizable as one coherent biological event.
+
+The point is not to rederive Hodgkin–Huxley equations. The point is to isolate the structural semantics of a cross-level signalling event: when local molecular and cellular steps form one biologically meaningful communication loop, and when the return should be understood as persistent functional reparameterization or structural reorganisation.
+
+:::
+:::
+
+---
+
+## Multi-Stream Integration and Biological Representation
+
+::: {.card}
+::: {.card-body}
+
+A related application appears in my work on avian navigation and multisensory integration.
+
+Bird navigation requires integration of magnetic, celestial, olfactory, landmark, behavioural, and neural information streams across changing contexts. The mathematical problem is not only cue fusion in a fixed state space. Different information streams may be locally meaningful, but globally incompatible when integrated across all contexts.
+
+Here the analogy with quantum contextuality is useful but should be read structurally. The point is not to claim macroscopic quantum contextuality across neural circuits. The point is to use local-to-global constraint structure as a language for distributed biological integration.
+
+In this setting, constraint semantics can identify where heterogeneous biological information streams fail to assemble coherently and where the system may need to remap, reweight, or reorganise its internal representation.
+
+:::
+:::
+
+---
+
+## What This Direction Contributes
+
+::: {.card}
+::: {.card-body}
+
+This research contributes a structural language for theoretical biology.
+
+It separates local mechanism from global organisation. It distinguishes a pathway that exists from a pathway that is biologically realizable. It treats interfaces as active parts of biological organisation rather than passive boundaries. It gives a way to discuss circular causality, recurrence, history, and structural change without reducing them to dynamics on one fixed state space.
+
+The generality of the framework comes from its core objects: scaffolds, constraints, interfaces, admissible histories, and realization conditions. These objects can be instantiated in different biological settings: molecular signalling, excitable membranes, biological communication, multisensory integration, ecological networks, and adaptive systems.
+
+The broader aim is to develop mathematical models that are faithful to living systems as organised, multi-level, historically changing systems.
+
+:::
+:::
+
+---
+
+## Current Directions
+
+::: {.card}
+::: {.card-body}
+
+My current interests in mathematical and theoretical biology include:
+
+- constraint semantics for multi-level biological organisation;
+- organisation beyond fixed state spaces;
+- biological relativity and non-privileged causal levels;
+- cross-scale molecular communication;
+- Hodgkin-type signalling loops and circular causality;
+- active biological interfaces and boundary conditions;
+- local admissibility versus global biological realizability;
+- operational closure versus homogeneous recurrence;
+- multi-stream biological integration;
+- structural change in biological organisation;
+- adaptive ecological systems and individualised niches;
+- validity of reduced network models in biology.
+
+:::
+:::
+
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Topological, Geometric, and Algebraic Methods](topological-geometric-algebraic-methods.qmd)
+
+Geometric and categorical methods for local-to-global structure, obstruction, transport, and structural change.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Evolving Networks and Communication Systems](evolving-networks-communication-systems.qmd)
+
+Evolving, heterogeneous, and reconfigurable communication systems.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Quantum Foundations](quantum-foundations.qmd)
+
+Geometric, gauge-theoretic, and topological approaches to contextuality, non-locality, and Bell–Kochen–Specker models.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Models of Computation](models-of-computation.qmd)
+
+Topology-driven, contextual, and structure-sensitive models of computation.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Research](research.qmd)
+
+Return to the research overview.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Publications](publications.qmd)
+
+Peer-reviewed publications, theses, preprints, and public manuscripts.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Projects and Funding](projects.qmd)
+
+Research environments, funding context, and ongoing projects.
+
+:::
+:::
+:::
+
+:::
