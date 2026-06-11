@@ -1,1 +1,163 @@
+title: "Topological, Geometric, and Algebraic Methods"
+page-layout: full
+---
 
+The mathematical core of my work lies in **geometric and categorical methods for local-to-global structure**. I study how local data, local constraints, or local transformations assemble into global organisation, and what kind of obstruction appears when this assembly fails.
+
+This theme is architectural across my research. In quantum foundations, it appears as contextuality: locally meaningful measurement contexts may fail to admit one global classical account. In evolving networks, it appears as dynamic feasibility: locally valid paths, updates, or policies may fail to form one coherent end-to-end reconfiguration. In biology, it appears from molecular and nanoscale processes up to cellular and organism-level organisation: locally admissible signalling steps may fail to constitute one globally realizable biological event.
+
+---
+
+## Mathematical Language
+
+::: {.card}
+::: {.card-body}
+
+The mathematical language I use comes from sheaf theory, bundle geometry, simplicial topology, obstruction theory, and gauge/connection ideas.
+
+Sheaves organize restriction, compatibility, and gluing of local data. Bundles organize local fibres, transition maps, transport, and global twisting. Simplicial and stratified spaces provide the underlying architecture for contexts, networks, interfaces, and multi-level systems. Cohomological and obstruction-theoretic methods express when local compatibility fails globally.
+
+:::
+:::
+
+---
+
+## Symmetry, Transport, and Loop Observables
+
+::: {.card}
+::: {.card-body}
+
+Gauge-theoretic ideas enter through symmetry and transport. In my work, loop observables and holonomy record what happens when locally valid transformations are transported around a closed path.
+
+A nontrivial return can signal contextuality in quantum models, infeasibility in evolving networks, or structural reorganisation in multi-level systems. This is the role played by Wilson-loop-like thinking: not as decorative physics language, but as a way of asking what global information is carried by closed transport.
+
+:::
+:::
+
+---
+
+## Simplicial, Stratified, and Morse-Theoretic Methods
+
+::: {.card}
+::: {.card-body}
+
+I also use simplicial, stratified, and Morse-theoretic methods to make these ideas finite and computable.
+
+Simplicial complexes represent contexts, networks, and interfaces. Stratified structures allow different levels of a system to carry different state descriptions while still interacting through active boundaries. Discrete Morse-theoretic ideas help isolate critical local structures that carry global topological information.
+
+:::
+:::
+
+---
+
+## Mathematical Role Across My Work
+
+::: {.card}
+::: {.card-body}
+
+This mathematical layer is not only a toolbox; it is a modelling theory. It gives a common language for quantum foundations, quantum information, evolving networks, and mathematical biology:
+
+- local data;
+- global realization;
+- obstruction;
+- transport;
+- loop observables;
+- critical structure;
+- structural change.
+
+Looking forward, I am interested in extending this programme toward Hodge-theoretic, Morse–Floer–Conley-theoretic, topos-theoretic, braid-theoretic, representation-theoretic, and noncommutative-geometric directions. The aim is to understand how deeper mathematical structures can clarify quantum contextuality, quantum causality, topology-sensitive computation, dynamic network feasibility, and multi-level biological organisation.
+
+:::
+:::
+
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Quantum Foundations](quantum-foundations.qmd)
+
+Geometric, gauge-theoretic, and topological approaches to contextuality, non-locality, and Bell–Kochen–Specker models.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Quantum Information and Computation](quantum-information-computation.qmd)
+
+Contextuality as a structural resource, gauge structure in MBQC, and topology-sensitive quantum computation.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Evolving Networks and Communication Systems](evolving-networks-communication-systems.qmd)
+
+Evolving, heterogeneous, and reconfigurable communication systems.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Mathematical and Theoretical Biology](mathematical-theoretical-biology.qmd)
+
+Multi-level biological organisation, biological communication, circular causality, and adaptive systems.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Research](research.qmd)
+
+Return to the research overview.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Publications](publications.qmd)
+
+Peer-reviewed publications, theses, preprints, and public manuscripts.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Projects and Funding](projects.qmd)
+
+Research environments, funding context, and ongoing projects.
+
+:::
+:::
+:::
+
+:::
