@@ -1,3 +1,4 @@
+---
 title: "Topological, Geometric, and Algebraic Methods"
 page-layout: full
 ---
