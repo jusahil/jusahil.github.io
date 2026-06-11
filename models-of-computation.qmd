@@ -1,1 +1,227 @@
+---
+title: "Models of Computation"
+page-layout: full
+---
 
+My work on models of computation studies **topology-driven models of computation**, where structure and function are not separated. The structure carrying the computation constrains what the computation can do, while the computation may also change, reveal, or reorganise that structure.
+
+The central question is:
+
+> **Is computation only the transformation of inputs into outputs, or can computation also be understood as the evolution of structured interactions?**
+
+This question is important because many systems of interest are not closed, static, or purely sequential. Quantum systems, biological systems, networked systems, and interactive computational systems often involve context, observation, feedback, concurrency, adaptation, and changing environments. In such settings, the expressive power of a model is not only about which function it computes, but also about what kinds of interaction, organisation, and structural change it can represent.
+
+---
+
+## Contextual Semantics Machinery
+
+::: {.card}
+::: {.card-body}
+
+The main anchor for this direction is my work on **Contextual Semantics Machinery**.
+
+The idea is to connect quantum contextuality with interactive computation. In contextuality, local descriptions may be valid within their own contexts but fail to assemble into one global classical account. In interactive computation, the system is not exhausted by one input and one output; it continues to interact with an environment, update its state, and change its operational context.
+
+This suggests a model of computation in which context is not external to the computation. Instead, context becomes part of the computational structure. Local operations, global constraints, and changes in the underlying organisation jointly determine what the computation means.
+
+:::
+:::
+
+---
+
+## Topological Interactive Machines
+
+::: {.card}
+::: {.card-body}
+
+A concrete expression of this idea is the **Topological Interactive Machine**.
+
+In this model, computation is carried by a topological or geometric structure. Local computational acts occur in local regions, but their meaning depends on how those regions are connected globally. The topology is not only a representation drawn after the computation; it participates in the semantics of the computation.
+
+This gives a structure-function viewpoint:
+
+- structure constrains the possible computations;
+- computation can change or expose structure;
+- global observables can emerge from local interactions;
+- the computational process can depend on the organisation of the space in which it occurs.
+
+This is the sense in which the model is topology-driven.
+
+:::
+:::
+
+---
+
+## Expressiveness of Computation
+
+::: {.card}
+::: {.card-body}
+
+This direction is motivated by a broader question in the theory of computation:
+
+> **What should count as a computational process?**
+
+Classical computability theory gives a precise account of computable functions. But computation in open, interactive, concurrent, quantum, biological, or distributed settings often involves more than closed function evaluation. It may involve interaction over time, communication with an environment, structural reconfiguration, and the emergence of global behaviour.
+
+This connects my work with several traditions: Feynman’s motivation for quantum computation as a way to model quantum physical processes; Petri’s structural view of concurrency; Milner’s process and bigraphical models of interaction; Abramsky’s question about the fundamental structures of concurrency; and Wegner’s emphasis on interaction as a basic computational phenomenon.
+
+The point is not simply to claim faster computation. The point is to study **computational expressiveness**: what kinds of processes, interactions, contexts, and structural transformations a model can naturally represent.
+
+:::
+:::
+
+---
+
+## Relation to Quantum, Networked, and Biological Systems
+
+::: {.card}
+::: {.card-body}
+
+Topology-driven computation is relevant to my broader work because the same structure-function relation appears in several domains.
+
+In quantum foundations, contextuality shows that local descriptions may fail to assemble into one global classical account. In quantum information, this raises the question of whether contextuality, topology, braid-like structure, or global observables can act as computational resources. In evolving networks, local routing or policy decisions may be valid while the whole reconfiguration is globally obstructed. In biology, local processes may be admissible while the multi-level organisation changes.
+
+The common idea is that computation may not always happen on a fixed background. The background structure may itself participate in the process.
+
+:::
+:::
+
+---
+
+## Current Directions
+
+::: {.card}
+::: {.card-body}
+
+My current interests in models of computation include:
+
+- topology-driven models of computation;
+- contextual semantics machinery;
+- topological interactive machines;
+- structure-function co-evolution;
+- interactive and open computation;
+- computation over changing spaces;
+- local-to-global computational semantics;
+- contextuality as computational structure;
+- global observables in computation;
+- braid-theoretic and topological models of computation;
+- computational expressiveness beyond purely fixed input-output models.
+
+:::
+:::
+
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Quantum Foundations](quantum-foundations.qmd)
+
+Geometric, gauge-theoretic, and topological approaches to contextuality, non-locality, and Bell-Kochen-Specker models.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Quantum Information and Computation](quantum-information-computation.qmd)
+
+Contextuality as a structural resource, gauge structure in MBQC, and topology-sensitive quantum computation.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Topological, Geometric, and Algebraic Methods](topological-geometric-algebraic-methods.qmd)
+
+Geometric and categorical methods for local-to-global structure, obstruction, transport, and structural change.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Evolving Networks and Communication Systems](evolving-networks-communication-systems.qmd)
+
+Evolving, heterogeneous, and reconfigurable communication systems.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Mathematical and Theoretical Biology](mathematical-theoretical-biology.qmd)
+
+Multi-level biological organisation, biological communication, circular causality, and adaptive systems.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Research](research.qmd)
+
+Return to the research overview.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Publications](publications.qmd)
+
+Peer-reviewed publications, theses, preprints, and public manuscripts.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Projects and Funding](projects.qmd)
+
+Research environments, funding context, and ongoing projects.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Contact](contact.qmd)
+
+Affiliation, email, and academic links.
+
+:::
+:::
+:::
+
+:::
