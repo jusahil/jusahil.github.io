@@ -158,47 +158,6 @@ Fifth, it opens a route toward new model-building strategies. If contextuality c
 
 ---
 
-## Representative Outputs
-
-::: {.grid}
-
-::: {.g-col-12}
-::: {.card .h-100}
-::: {.card-body}
-
-### The Gauge-Theoretic Structure of Non-Locality and Contextuality
-
-This manuscript develops a gauge-theoretic and bundle-theoretic interpretation of non-locality and contextuality. It studies contextuality through local-to-global obstruction, symmetry principles, loop/interface holonomy, critical simplices, virtual loops, structural change, and the geometry of empirical models. It also applies the framework to several standard contextuality models and explores the reverse problem of generating contextual models from geometric or polyhedral data.
-
-:::
-:::
-:::
-
-::: {.g-col-12}
-::: {.card .h-100}
-::: {.card-body}
-
-### The Bundle-Theoretic Structure and Computational Modeling of Quantum Contextuality
-
-This work develops a bundle-theoretic and computational model of quantum contextuality. It connects empirical models, bundle diagrams, local-to-global obstruction, topology-driven computation, and contextual semantics machines. It also situates contextuality within a broader computational and semantic framework, linking quantum foundations with quantum cognition and models of computation.
-
-:::
-:::
-:::
-
-::: {.g-col-12}
-::: {.card .h-100}
-::: {.card-body}
-
-### Contextual Semantics Machinery
-
-This thesis and related public manuscript develop the broader contextual-semantics programme behind this work. They study how local contextual data, topological structures, and computational semantics can be organised into a mathematical framework for complex systems and quantum contextuality.
-
-:::
-:::
-:::
-
-:::
 
 ---
 
