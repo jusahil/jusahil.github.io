@@ -4,21 +4,17 @@ title: "Quantum Foundations"
 page-layout: full
 ---
 
-My work in quantum foundations studies non-locality, contextuality, Bell–Kochen–Specker models, and the mathematical structure of quantum theory. I am especially interested in why quantum systems resist a single globally consistent classical description, even when their local measurement contexts are individually meaningful and experimentally well defined.
+My work in quantum foundations studies fundamental phenomenon of non-locality and contextuality. We study no-go models, like the Bell–Kochen–Specker models, and the mathematical structure of quantum theory. I am especially interested in why quantum systems resist a single globally consistent classical description, even when their local measurement contexts are individually meaningful and experimentally well defined. Alongside, to reason about the deeper meaning of these emerging seemingly inconsistent structures, 'bug as a feature'.
 
 This work belongs to a long tradition in which quantum theory is studied through its underlying mathematical structures. Since the operator-theoretic and Hilbert-space formulation of quantum mechanics, the foundations of quantum theory have been investigated through algebraic, logical, categorical, geometric, and operational frameworks. Algebraic quantum mechanics studies observables and states through operator algebras; geometric formulations study quantum states through projective Hilbert space and symplectic or Kähler structures; topos-theoretic approaches reformulate quantum propositions and the Kochen–Specker theorem through contextual logic; sheaf-theoretic approaches represent non-locality and contextuality as failures of local data to assemble into a global section.
 
-Within this landscape, contextuality is one of the central non-classical features of quantum theory. It says, roughly, that the value assigned to a measurement cannot always be understood independently of the compatible measurements performed alongside it. Bell non-locality can be viewed as a special case of this broader local-to-global phenomenon: locally meaningful experimental data may fail to admit a single global classical explanation. This is the modern mathematical form of the tension behind Einstein’s worry about “spooky action at a distance,” Bell’s theorem, and the Kochen–Specker theorem.
+Within this landscape, contextuality is one of the central non-classical features of quantum theory. It says, roughly, that the value assigned to a measurement cannot always be understood independently of the compatible measurements performed alongside it. Bell non-locality can be viewed as a special case of this broader local-to-global phenomenon: locally meaningful experimental data may fail to admit a single global classical explanation. This is the modern mathematical form of the tension behind Einstein’s worry about “spooky action at a distance,” and the Bell-Kochen–Specker theorem.
 
-My research provides a geometric, topological, and gauge-theoretic understanding of contextuality and non-locality. It studies quantum contextuality through spaces of measurement contexts, local sections, fibres, transition maps, symmetry groups, loops, holonomy, obstruction classes, and structural change. In this viewpoint, contextuality is not only a probabilistic or logical anomaly; it is a structural failure of local descriptions to close into a globally coherent account.
+My research provides a geometric, topological, and gauge-theoretic understanding of contextuality and non-locality. It studies quantum contextuality through spaces of measurement contexts, local sections, fibres, transition maps, symmetry groups, loops, holonomy, obstruction classes, and structural change. In this viewpoint, contextuality is not only a probabilistic or logical anomaly; it is a structural failure of local descriptions to close into a globally coherent account. Broadly, the goal of studying these non-classical features is to propose new foundations for quantum algorithms and protocols that use non-locality/contextaility as a resource, and also designing novel implementable architectures for small scale quantum systems for different applications. For this endeavor, our idea of contextuality is very close to the anomaly physics. 
 
 ---
 
-## A Guiding Slogan
-
-::: {.callout-note title="A guiding slogan from anomaly theory"}
-
-Daniel S. Freed's formulation of anomaly theory gives a useful slogan for this perspective:
+Daniel S. Freed's formulation of anomaly theory gives a useful cornerstone for this perspective:
 
 > “Quantum theory is projective. Quantization is linear.”  
 > “The anomaly is the projectivity of a quantum theory.”
@@ -43,13 +39,13 @@ My work develops this picture in a geometric and gauge-theoretic direction. It a
 
 ---
 
-## An Oxford Motivation: Gauge Theory, Bundles, and Holonomy
 
-::: {.callout-tip title="Gauge theory, bundles, and holonomy"}
 
-A direct motivation for this direction comes from Giovanni Carù's Oxford work on logical and topological contextuality. Carù's thesis develops contextuality from the Abramsky–Brandenburger sheaf-theoretic framework and studies cohomological obstructions to global sections. In the discussion of future directions, it explicitly points toward gauge theory, principal-bundle descriptions of empirical models, and holonomy-based methods.
+::: {.callout-tip title="The motivation of my PhD thesis"}
 
-> Carù points toward “empirical models as principal bundles” and “holonomy theory, to characterise contextuality.”
+A direct motivation for my work that initiated during my PhD comes from Giovanni Carù's thesis work on logical and topological contextuality. Carù's thesis develops contextuality from the Abramsky–Brandenburger sheaf-theoretic framework and studies cohomological obstructions to global sections. In the discussion of future directions, it explicitly points toward gauge theory, principal-bundle descriptions of empirical models, and holonomy-based methods.
+
+> Carù points in his thesis (2019) “This formalism presents intriguing connections with gauge theory, which seems to be the natural framework to formally capture the bundle diagram description of empirical models. More specifically, one might hope to reach a compelling definition of empirical models as principal bundles, and apply alternative tools of topology, such as holonomy theory, to characterise contextuality.”
 
 This is precisely the line my work develops further. The gauge/bundle viewpoint treats empirical models not only as probability tables or logical supports, but as structured spaces with local charts, fibres, transition data, symmetry, loops, and global obstruction. It therefore provides a natural bridge between sheaf-theoretic contextuality, cohomological obstruction, gauge theory, and geometric models of quantum foundations.
 
@@ -57,7 +53,7 @@ This is precisely the line my work develops further. The gauge/bundle viewpoint 
 
 ---
 
-## Gauge and Bundle Ideas in Quantum Theory
+## Quantum Theory through the lens of Bundles/Gauge theory
 
 Gauge and bundle ideas are already deeply present in quantum physics. In the Aharonov–Bohm effect, a quantum phase can depend on global gauge structure even when the local electromagnetic field vanishes along the particle's path. In Berry phase, adiabatic change produces a geometric phase naturally understood as holonomy. In geometric quantization, quantum states are represented through sections of line bundles with connection. In topological phases and topological quantum computation, global and braid-like structures become physically meaningful and computationally relevant.
 
