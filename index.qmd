@@ -3,14 +3,20 @@ title: "Sahil Imtiyaz"
 page-layout: full
 ---
 
-
+# Sahil Imtiyaz
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-7}
+::: {.g-col-12 .g-col-md-4}
 
-**Postdoctoral Researcher**  
-[Basque Center for Applied Mathematics (BCAM)](https://www.bcamath.org)  
+![](Sahil-profile.jpg){fig-alt="Sahil Imtiyaz" width="260"}
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+**Postdoctoral Researcher / Postdoc Fellow**  
+[Basque Center for Applied Mathematics (BCAM)](https://www.bcamath.org/es/node/11987)  
 Mathematical, Computational and Experimental Neuroscience Group  
 
 **Junior Scientist**  
