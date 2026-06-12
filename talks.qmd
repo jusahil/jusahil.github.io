@@ -1,30 +1,154 @@
 ---
-title: "Talks"
-description: "Talks, seminars, and presentations."
+title: "Talks and Presentations"
+page-layout: full
 ---
 
-## Selected talks
+This page lists selected seminars, conference presentations, and research talks.
 
-Add your talks here in reverse chronological order.
+---
 
-::: {.publication}
-### Talk title
-**Venue**, City, Country — Year  
-Short description of the talk.
+## Invited Seminars and Research Talks
 
-[Slides](#) · [Video](#)
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### Computation and Quantum Contextuality
+
+**Bilkent University, Quantum Computing Seminar**  
+Ankara, Türkiye  
+**17 October 2025**
+
+Invited seminar on quantum contextuality, evolving simplicial-bundle structures, and topology-driven models of computation. The talk discussed how locally compatible data can fail to assemble into a globally consistent account, and how this local-to-global obstruction can motivate computational structures beyond ordinary fixed-background descriptions.
+
+**Links:** [Seminar announcement](https://math.bilkent.edu.tr/seminars/2025-2026/Quantum_17102025.pdf) · [Seminar listing](https://researchseminars.org/seminar/BilkentMathGrad)
+
+:::
+:::
 :::
 
-::: {.publication}
-### Seminar title
-**Institution / Seminar Series** — Year  
-Short description of the seminar.
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
 
-[Slides](#)
+### The Gauge Theoretic Structure of Non-locality and Contextuality
+
+**Neuroscience Modeling and Research Group–SIMMAG**  
+İstanbul Technical University, İstanbul, Türkiye  
+**21 October 2025**
+
+Invited talk hosted by the Neuroscience Modeling and Research Group–SIMMAG at İstanbul Technical University. The talk presented a gauge-theoretic and bundle-theoretic approach to non-locality and contextuality, focusing on local-to-global obstruction, symmetry, holonomy, and the geometric structure of empirical models.
+
+**Link:** [Invitation letter](files/talks/itu-invitation-letter-imtiyaz.pdf)
+
+:::
+:::
 :::
 
-## Invited lectures and seminars
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
 
-- Add seminar 1.
-- Add seminar 2.
-- Add conference talk 1.
+### Evolving Networks and Communication Systems
+
+**Leioa Campus / Biofisika context, Spain**  
+University of the Basque Country / Biofisika-associated research meeting  
+**28 April 2026**
+
+Invited research talk and group discussion on mathematical modelling of evolving networks and communication systems. The talk was connected to network modelling, evolving structures, and mathematical frameworks for complex systems.
+
+:::
+:::
+:::
+
+:::
+
+---
+
+## Conference Presentations
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### The Bundle-Theoretic Structure and Computational Modeling of Quantum Contextuality
+
+**Quantum AI and NLP / QNIP 2025**  
+Indiana University, Bloomington, USA  
+**6–9 August 2025**
+
+Conference presentation connected to the refereed proceedings of the First International Conference on Quantum AI and NLP. The work develops a bundle-theoretic and computational model of quantum contextuality, connecting local-to-global obstruction, contextual semantics, and topology-driven computation.
+
+**Links:** [Conference page](https://qnlp.ai/speakers.html) · [Springer proceedings](https://link.springer.com/book/10.1007/978-3-032-13883-5)
+
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### The Bundle-Theoretic Structure and Computational Modeling of Quantum Contextuality
+
+**7th BYMAT Conference — Bringing Young Mathematicians Together**  
+University of Seville, Spain  
+**17–20 November 2025**
+
+Conference presentation on a geometric and bundle/gauge-theoretic approach to quantum contextuality. The abstract situates the work in relation to sheaf-theoretic contextuality and develops an evolving simplicial-bundle viewpoint involving local-to-global structure, gauge transformations, critical simplices, and virtual loops.
+
+**Link:** [Book of abstracts](https://imus.us.es/congresos/BYMAT/docs/boa.pdf)
+
+:::
+:::
+:::
+
+:::
+
+---
+
+## Related Pages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Research](research.qmd)
+
+Research programme and main research areas.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [Publications](publications.qmd)
+
+Peer-reviewed publications, theses, preprints, and public manuscripts.
+
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .h-100}
+::: {.card-body}
+
+### [CV](cv.qmd)
+
+Academic background, appointments, talks, teaching, supervision, and research activities.
+
+:::
+:::
+:::
+
+:::
