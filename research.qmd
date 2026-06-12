@@ -163,89 +163,9 @@ This line is connected to theoretical biology and the epistemology of biological
 
 :::
 
----
 
-## Explore Further
 
-Each research area has a dedicated page with more detail, representative outputs, and related directions.
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-::: {.card-body}
-
-### [Quantum Foundations](quantum-foundations.qmd)
-
-Non-locality, contextuality, Bell–Kochen–Specker models, and philosophical questions in quantum theory.
-
-:::
-:::
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-::: {.card-body}
-
-### [Quantum Information and Computation](quantum-information-computation.qmd)
-
-Quantum advantage, contextuality as a computational resource, and topology-driven computation.
-
-:::
-:::
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-::: {.card-body}
-
-### [Topological, Geometric, and Algebraic Methods](topological-geometric-algebraic-methods.qmd)
-
-Algebraic topology, sheaf theory, fibre bundles, obstruction theory, and gauge/holonomy methods.
-
-:::
-:::
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-::: {.card-body}
-
-### [Models of Computation](models-of-computation.qmd)
-
-Topology-driven, contextual, and structure-sensitive models of computation.
-
-:::
-:::
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-::: {.card-body}
-
-### [Evolving Networks and Communication Systems](evolving-networks-communication-systems.qmd)
-
-Evolving, heterogeneous, and reconfigurable networked systems.
-
-:::
-:::
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-::: {.card-body}
-
-### [Mathematical and Theoretical Biology](mathematical-theoretical-biology.qmd)
-
-Multi-level biological processes, biological communication, circular causality, and adaptive ecological systems.
-
-:::
-:::
-:::
-
-:::
-
----
 
 ## Related Pages
 
