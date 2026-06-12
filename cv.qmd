@@ -10,7 +10,7 @@ Place your CV file in the root folder as `cv.pdf`, then this button will work:
 ## Short academic profile
 
 
-I develop mathematical, theoretical, and computational frameworks for multi-level complex adaptive evolving system to reveal novel nonlinear phenomenon, dynamical principle, emergent behaviour, collective effect abd complexity theoretic insights. 
+I develop mathematical, theoretical, and computational frameworks for multi-level complex adaptive evolving system to reveal novel nonlinear phenomenon, dynamical principle, emergent behaviour, collective effect and complexity theoretic insights. 
 
 ## Research areas
 
@@ -148,6 +148,38 @@ Teaching experience at higher-secondary level, with emphasis on mathematical fou
 :::
 
 :::
+
+
+
+
+## Research Visits, Summer Schools, and Projects
+
+### Research Visits
+
+- **Visiting PhD Researcher**, Dalle Molle Institute for Artificial Intelligence, Lugano, Switzerland, with Andrea Danani.
+
+- **Visiting PhD Researcher**, University of Oxford, Quantum Group, with Samson Abramsky.
+
+- **Visiting PhD Researcher**, École Normale Supérieure / CNRS Paris, with Giuseppe Longo.
+
+- **Visiting PhD Researcher**, Basque Center for Applied Mathematics, with Serafim Rodrigues.
+
+### Summer Schools and Training
+
+- **Hilbert–Bernays Summer School on Logic and Computation**, Georg-August University of Göttingen, Germany.  
+  Project focus: Gödel’s incompleteness problem via the halting problem.
+
+- **10th International ScaDS.AI Summer School**, Leipzig, Germany, 2024.
+
+### Selected Projects
+
+- **EU-FET TOPDRIM Project**, Topological Field Theory of Data, involving a consortium of European partners including the University of Camerino.
+
+- **Bio-Molecules Computing Life BELL Project**, Italy.
+
+- **GPS-based Application System for Alarm Scheduling**.
+
+- **Modular Reconfigurable Architecture of Memories**.
 
 
 
