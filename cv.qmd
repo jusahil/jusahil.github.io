@@ -26,7 +26,70 @@ Researcher working on mathematical structures for evolving biological, physical,
 
 ## Education
 
-Add your degrees here.
+## Education
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### PhD in Sciences and Technology: Computer Science
+
+**University of Camerino, Italy**  
+**Defended:** 29 November 2023  
+**Doctoral programme:** Sciences and Technology — Computer Science  
+
+**Thesis:** *Contextual Semantics Machinery*  
+
+My doctoral research developed mathematical and computational structures for contextual semantics, with emphasis on quantum contextuality, local-to-global obstruction, topology-driven computation, and mathematical modelling of complex systems.
+
+**Evaluation:** The doctoral evaluation judged the research to be original and of very high quality, with specific reference to quantum contextuality and its interconnections with topology and cohomological algebra.
+
+**Evaluation committee and experts:** Alessandra Di Pierro, Ugo Dal Lago, Alessandro Della Corte, Giuseppe Longo, Serafin Rodrigues, and Rui Soares Barbosa.
+
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### MS in Computer Science
+
+**International Islamic University Islamabad, Pakistan**  
+**Completed:** 2018  
+
+**Thesis:** *Quantum Adiabatic Evolution for Global Optimization in Big Data*  
+
+**Evaluation:** 3.86 / 4.0  
+
+This thesis studied quantum adiabatic evolution and global optimization in the context of complex data problems.
+
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### Bachelor of Engineering in Information Technology
+
+**Model Institute of Engineering and Technology, Jammu, India**  
+**University of Jammu**  
+**Completed:** 2014  
+
+**Result:** First Division  
+
+Undergraduate degree in Information Technology Engineering, Faculty of Engineering, University of Jammu.
+
+:::
+:::
+:::
+
+:::
 
 
 ## Teaching and Supervision
