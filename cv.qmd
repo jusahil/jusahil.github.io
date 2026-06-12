@@ -3,9 +3,8 @@ title: "CV"
 description: "Curriculum vitae."
 ---
 
-Place your CV file in the root folder as `cv.pdf`, then this button will work:
 
-[Download CV](cv.pdf){.btn .btn-primary}
+[Download CV](Sahil_CV.pdf){.btn .btn-primary}
 
 ## Short academic profile
 
