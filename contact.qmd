@@ -12,11 +12,11 @@ description: "Contact information."
 Replace the placeholders below with your actual profile links:
 
 - [Google Scholar](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
-- [ORCID](https://orcid.org/YOUR-ORCID-ID)
+- [ORCID](https://orcid.org/0009-0000-8565-2750)
 - [GitHub](https://github.com/YOUR-GITHUB-USERNAME)
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-- [ResearchGate](https://www.researchgate.net/profile/YOUR-PROFILE)
+
 
 ## Collaboration
 
-I am open to collaborations on mathematical biology, evolving complex systems, biological organization, molecular communication, network reconfiguration, and local-to-global compatibility problems.
+I am open to collaborations, learning new fields and expertise.
