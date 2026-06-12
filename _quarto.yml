@@ -4,12 +4,11 @@ project:
 
 website:
   title: "Sahil Imtiyaz"
-  site-url: "https://YOUR-GITHUB-USERNAME.github.io"
-  repo-url: "https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io"
-  description: "Academic website of Sahil Imtiyaz: mathematical structures for evolving biological and complex systems."
+  site-url: "https://jusahil.github.io"
+  repo-url: "https://github.com/jusahil/jusahil.github.io"
   navbar:
-   title: "Sahil Imtiyaz"
-   left:
+    title: "Sahil Imtiyaz"
+    left:
       - href: index.qmd
         text: Home
       - href: research.qmd
@@ -24,21 +23,6 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
-    right:
-      - icon: envelope
-        href: "mailto:sahil.imtiyaz@unicam.it"
-        aria-label: Email
-      - icon: github
-        href: "https://github.com/YOUR-GITHUB-USERNAME"
-        aria-label: GitHub
-      - icon: google
-        href: "https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID"
-        aria-label: Google Scholar
-  page-footer:
-    left: "© Sahil Imtiyaz"
-    right:
-      - text: "Built with Quarto"
-        href: "https://quarto.org"
 
 format:
   html:
