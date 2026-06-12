@@ -8,8 +8,8 @@ website:
   repo-url: "https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io"
   description: "Academic website of Sahil Imtiyaz: mathematical structures for evolving biological and complex systems."
   navbar:
-    title: "Sahil Imtiyaz"
-    left:
+   title: "Sahil Imtiyaz"
+   left:
       - href: index.qmd
         text: Home
       - href: research.qmd
@@ -17,7 +17,7 @@ website:
       - href: publications.qmd
         text: Publications
       - href: projects.qmd
-        text: Projects
+        text: Projects and Funding
       - href: talks.qmd
         text: Talks
       - href: cv.qmd
