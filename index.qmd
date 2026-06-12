@@ -9,8 +9,8 @@ page-layout: full
 
 ::: {.g-col-12 .g-col-md-7}
 
-**Postdoctoral Researcher / Postdoc Fellow**  
-[Basque Center for Applied Mathematics (BCAM)](https://www.bcamath.org/es/node/11987)  
+**Postdoctoral Researcher**  
+[Basque Center for Applied Mathematics (BCAM)](https://www.bcamath.org)  
 Mathematical, Computational and Experimental Neuroscience Group  
 
 **Junior Scientist**  
