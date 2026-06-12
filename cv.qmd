@@ -3,30 +3,29 @@ title: "CV"
 description: "Curriculum vitae."
 ---
 
-## Curriculum vitae
-
 Place your CV file in the root folder as `cv.pdf`, then this button will work:
 
 [Download CV](cv.pdf){.btn .btn-primary}
 
 ## Short academic profile
 
-**Sahil Imtiyaz**  
-Researcher working on mathematical structures for evolving biological, physical, and communication systems.
+
+I develop mathematical, theoretical, and computational frameworks for multi-level complex adaptive evolving system to reveal novel nonlinear phenomenon, dynamical principle, emergent behaviour, collective effect abd complexity theoretic insights. 
 
 ## Research areas
 
-- mathematical biology;
-- complex systems;
-- applied topology and geometry;
-- evolving networks;
-- local-to-global compatibility and obstruction methods;
-- multi-level biological organization;
-- molecular and biological communication.
+- Quantum Foundations;
+- Quantum Information and Computation;
+- Models of Computation;
+- Evolving Adaptive Networks;
+- Mathematical and Theoretical Biology;
+- Complex System Modelling;
+- Quantum Causality;
+- Multi-Scale and Multi-Level Communication;
+- Computational and Mathematical Neuroscience.
 
 ## Education
 
-## Education
 
 ::: {.grid}
 
@@ -154,8 +153,9 @@ Teaching experience at higher-secondary level, with emphasis on mathematical fou
 
 ## Skills
 
-- mathematical modeling;
-- theoretical framework development;
-- topology, geometry, and network methods;
-- scientific writing and manuscript preparation;
-- interdisciplinary research across biology, physics, and computation.
+- management skills in strategic and effective eveolution/consolication of a company or research institute in competing environment ;
+- theory/framework development;
+- mathematical/computational modelling;
+- scientific writing;
+- interdisciplinary research;
+- quantum porgramming.
