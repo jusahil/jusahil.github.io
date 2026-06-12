@@ -3,7 +3,7 @@ title: "Sahil Imtiyaz"
 page-layout: full
 ---
 
-# Sahil Imtiyaz
+
 
 ::: {.grid}
 
