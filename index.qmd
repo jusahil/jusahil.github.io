@@ -18,23 +18,6 @@ Mathematical, Computational and Experimental Neuroscience Group
 
 :::
 
-::: {.g-col-12 .g-col-md-5}
-
-::: {.card}
-::: {.card-body}
-
-### Quick Links
-
-[CV](cv.qmd){.btn .btn-outline-primary}  
-[Contact](contact.qmd){.btn .btn-outline-primary}  
-[Publications](publications.qmd){.btn .btn-outline-primary}  
-[Projects and Funding](projects.qmd){.btn .btn-outline-primary}
-
-:::
-:::
-
-:::
-
 :::
 
 ---
