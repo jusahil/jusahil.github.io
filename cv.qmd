@@ -28,9 +28,42 @@ Researcher working on mathematical structures for evolving biological, physical,
 
 Add your degrees here.
 
-## Positions
 
-Add your current and previous research positions here.
+## Teaching and Supervision
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### Course Tutoring and Teaching Support
+
+**Theory of Computation and Distributed Coordination Calculus**  
+Course tutoring / teaching-assistant support during doctoral studies in the Computer Science and Mathematics doctoral programme at the University of Camerino, under the academic supervision of Prof. Emanuela Merelli.
+
+**Artificial Intelligence and Data Mining Principles**  
+Master’s-level teaching support in computer science, connected to artificial intelligence, data mining, and computational methods.  
+Associated academic context: Prof. Jamal Abdul Nasir.
+
+:::
+:::
+:::
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+### School-Level Teaching
+
+**Physics and Mathematics**  
+Teaching experience at higher-secondary level, with emphasis on mathematical foundations, physics concepts, and laboratory-based learning.
+
+:::
+:::
+:::
+
+:::
 
 ## Skills
 
