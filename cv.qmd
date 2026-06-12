@@ -128,6 +128,30 @@ Teaching experience at higher-secondary level, with emphasis on mathematical fou
 
 :::
 
+## Awards, Fellowships, and Distinctions
+
+::: {.grid}
+
+::: {.g-col-12}
+::: {.card .h-100}
+::: {.card-body}
+
+- **Italian PhD Scholarship**, 2018.
+
+- **Outstanding Achievement Award**, CS–MAT Doctoral Curriculum, University of Camerino, 2022.
+
+- **Best Poster Award**, Computer Science and Mathematics Workshop, Italy, 2022.
+
+- **National Eligibility Test**, India, 2010.
+
+:::
+:::
+:::
+
+:::
+
+
+
 ## Skills
 
 - mathematical modeling;
